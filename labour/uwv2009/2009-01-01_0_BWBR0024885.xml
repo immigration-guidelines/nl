@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0024885/2009-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2015-2/xsd/toestand_2015-2.xsd" bwb-id="BWBR0024885" inwerkingtreding="2009-01-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="zbo" stam-id="9804603" versie-id="15917642" id="C22036541" label-id="9781324" inwerkingtredingsdatum="2009-01-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="9804633" versie-id="15917452" id="C22036551" label-id="9781134" inwerking="2009-01-01" status="goed">UWV Beleidsregels uitvoering Wav</intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="9804643" versie-id="15917462" id="C22036571" label-id="9781144" inwerking="2009-01-01">UWV Beleidsregels uitvoering Wav</citeertitel>
+  <regeling>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="9804653" versie-id="15917472" id="C22036561" label-id="9781154" inwerking="2009-01-01" status="goed">
+  <wie>De Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen,</wie>
+  <considerans>
+    <considerans.al>Overwegende dat het wenselijk is dat met de inwerkingtreding van de wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen de beleidsregels uitvoering Wet arbeid vreemdelingen als gepubliceerd in de Staatscourant 2002, 19 worden gewijzigd en integraal opnieuw worden vastgesteld;</considerans.al>
+    <considerans.al bevat="grondslag">Gelet op <extref verwijzing-id="2248013" doc="jci1.3:c:BWBR0007514&amp;artikel=1" bwb-id="BWBR0007514" label-id="4953414">artikel 1 van het Delegatie- en uitvoeringsbesluit Wet arbeid vreemdelingen</extref> waarin de Minister van Sociale Zaken en Werkgelegenheid de uitvoering van de <extref verwijzing-id="2248026" doc="jci1.3:c:BWBR0007149" bwb-id="BWBR0007149" label-id="1793884">Wet arbeid vreemdelingen</extref> heeft opgedragen aan het Uitvoeringsinstituut werknemersverzekeringen;</considerans.al>
+    <considerans.al bevat="grondslag">Gelet op <extref verwijzing-id="2248014" doc="jci1.3:c:BWBR0005537&amp;artikel=4:81" bwb-id="BWBR0005537" label-id="2819934">artikel 4:81 van de Algemene wet bestuursrecht</extref>;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Besluit:</al>
+  </afkondiging>
+</aanhef>
+    <regeling-tekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="9804663" versie-id="15917482" id="C22036701" label-id="9781164" inwerking="2009-01-01" label="1" bron="Stcrt.2008-244" effect="nieuwe-regeling" ondertekening_bron="2008-12-02" publicatie_bron="2008-12-16" publicatie_iwt="2008-12-30" status="goed">
+  <kop>
+    <nr status="officieel">1</nr>
+    <titel status="officieel">Begripsbepalingen</titel>
+  </kop>
+  <al>In dit besluit wordt verstaan onder:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>
+        <nadruk type="cur">Raad van bestuur:</nadruk> de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=1&amp;o=a&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>
+        <nadruk type="cur">UWV:</nadruk> het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in <extref verwijzing-id="2248015" doc="jci1.3:c:BWBR0013060&amp;hoofdstuk=5" bwb-id="BWBR0013060" label-id="1602044">hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen</extref>;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=1&amp;o=b&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>
+        <nadruk type="cur">EER:</nadruk> Europese Economische Ruimte. De EER bestaat uit de Europese Unie, Liechtenstein, Noorwegen en IJsland;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=1&amp;o=c&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel1/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>
+        <nadruk type="cur">Wav:</nadruk>
+        <extref verwijzing-id="2248016" doc="jci1.3:c:BWBR0007149" bwb-id="BWBR0007149" label-id="1793884">Wet arbeid vreemdelingen</extref>.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=1&amp;o=d&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0024885&amp;artikel=1&amp;g=2009-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0024885&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=1&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0024885&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="b1-2" stam-id="9804673" versie-id="15917492" id="C22036691" label-id="9781174" inwerking="2009-01-01" label="2" bron="Stcrt.2008-244" effect="nieuwe-regeling" ondertekening_bron="2008-12-02" publicatie_bron="2008-12-16" publicatie_iwt="2008-12-30" status="goed">
+  <kop>
+    <nr status="officieel">2</nr>
+    <titel status="officieel">Indiening aanvraag tewerkstellingsvergunning</titel>
+  </kop>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>Het indienen van een aanvraag geschiedt door indiening van een volledig ingevuld en ondertekend aanvraagformulier;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=2&amp;o=a&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>Het aanvraagformulier is door de Raad van Bestuur vastgesteld en als bijlage bij dit besluit gevoegd. Het aanvraagformulier is te verkrijgen bij het WERKbedrijf UWV, afdeling Arbeidsjuridische dienstverlening, Postbus 883, 2700 AW Zoetermeer (079-750 29 03). Een aanvraagformulier is ook te downloaden op www.werk.nl of www.arbeidsmigratie.nl.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=2&amp;o=b&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0024885&amp;artikel=2&amp;g=2009-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0024885&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=2&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0024885&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="b1-3" stam-id="9804683" versie-id="15917502" id="C22036681" label-id="9781184" inwerking="2009-01-01" label="3" bron="Stcrt.2008-244" effect="nieuwe-regeling" ondertekening_bron="2008-12-02" publicatie_bron="2008-12-16" publicatie_iwt="2008-12-30" status="goed">
+  <kop>
+    <nr status="officieel">3</nr>
+    <titel status="officieel">Ontheffing van de verplichte vacaturemelding</titel>
+  </kop>
+  <al>
+    <extref doc="onbekend" verwijzing-id="2248027" bwb-id="BWBR0007514" label-id="4953544">Paragraaf 16 van de Uitvoeringsregels Wav behorende bij het Delegatie- en uitvoeringsbesluit Wav</extref> biedt de mogelijkheid dat de Raad van bestuur met betrekking tot bepaalde categorieën functies besluit dat de verplichte vacaturemelding als bedoeld in <extref verwijzing-id="2248017" doc="jci1.3:c:BWBR0007149&amp;artikel=8" bwb-id="BWBR0007149" label-id="1793614">artikel 8, eerste lid onder b Wav</extref>, gedurende een termijn van maximaal een jaar achterwege blijft, indien zij van oordeel is dat prioriteitgenietend aanbod niet bij het WERKbedrijf UWV als werkzoekend is geregistreerd en op korte termijn niet geregistreerd zal worden. De Raad van bestuur zal deze categorieën functies nader vaststellen en kenbaar maken door publicatie in de Staatscourant.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0024885&amp;artikel=3&amp;g=2009-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0024885&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=3&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0024885&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="9804693" versie-id="15917512" id="C22036671" label-id="9781194" inwerking="2009-01-01" label="4" bron="Stcrt.2008-244" effect="nieuwe-regeling" ondertekening_bron="2008-12-02" publicatie_bron="2008-12-16" publicatie_iwt="2008-12-30" status="goed">
+  <kop>
+    <nr status="officieel">4</nr>
+    <titel status="officieel">Wervingsinspanningen</titel>
+  </kop>
+  <al>Krachtens <extref verwijzing-id="2248018" doc="jci1.3:c:BWBR0007149&amp;artikel=9" bwb-id="BWBR0007149" label-id="1793624">artikel 9, aanhef lid 1 en onder a Wav</extref> kan een aanvraag om een tewerkstellingsvergunning worden geweigerd indien de werkgever niet kan aantonen voldoende inspanningen te hebben gepleegd om de arbeidsplaats door werkzoekenden met de nationaliteit van een lidstaat van de EER, voorzover het vrij verkeer van werknemers van toepassing is, te vervullen.</al>
+  <al>De Raad van bestuur neemt, onvoorziene omstandigheden daargelaten, daarbij als uitgangspunt dat naar mate de arbeidsplaats als moeilijker vervulbaar moet worden beschouwd, langer van te voren en vaker herhaalde inspanningen dienen te worden verricht om prioriteitgenietend aanbod te werven dan bij een reguliere werving noodzakelijk is. Daarbij wordt als leidraad gehanteerd dat bij moeilijk vervulbare vacatures wervingsinspanningen 3 maanden dienen te hebben plaatsgevonden voordat een aanvraag om een tewerkstellingsvergunning wordt ingediend.</al>
+  <al>Als moeilijker vervulbare vacatures worden in dit verband beschouwd vacatures die in de regel niet binnen een periode van 3 maanden kunnen worden vervuld dan wel vacatures waarvoor in de voorgaande jaren onvoldoende prioriteitgenietend aanbod beschikbaar was.</al>
+  <al>Een melding van de vacature bij een vestiging van het WERKbedrijf UWV wordt niet beschouwd als een eigen wervingsinspanning van de werkgever in de zin van <extref verwijzing-id="2248019" doc="jci1.3:c:BWBR0007149&amp;artikel=9" bwb-id="BWBR0007149" label-id="1793624">artikel 9 lid 1 onder a Wav</extref>.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0024885&amp;artikel=4&amp;g=2009-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0024885&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=4&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0024885&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" stam-id="9804703" versie-id="15917522" id="C22036661" label-id="9781204" inwerking="2009-01-01" label="5" bron="Stcrt.2008-244" effect="nieuwe-regeling" ondertekening_bron="2008-12-02" publicatie_bron="2008-12-16" publicatie_iwt="2008-12-30" status="goed">
+  <kop>
+    <nr status="officieel">5</nr>
+    <titel status="officieel">Werving binnen de EER</titel>
+  </kop>
+  <al>Werkzoekenden met de nationaliteit van een lidstaat van de EER (voor zover het vrij verkeer van werknemers van toepassing is) hebben bij de vervulling van vacatures op grond van EG-regelgeving (<extref doc="31968R1612" label="verordening" reeks="Celex">Verordening 1612/68</extref>) voorrang boven werkzoekenden met een nationaliteit van buiten de EER. Een werkgever zal derhalve eerst binnen deze landen voldoende wervingsinspanningen moeten verrichten om dergelijke werkzoekenden aan te trekken voordat een tewerkstellingsvergunning kan worden afgegeven.</al>
+  <al>Als wervingsinspanningen worden aangemerkt: het adverteren in daartoe geëigende (vak)bladen en op het internet, het inschakelen van intermediairs op de arbeidsmarkt van de EER, zoals werving- en selectiebureaus en detacherings- en uitzendbureaus.</al>
+  <al>Naast de verplichting om in Nederland wervingsinspanningen te verrichten geldt dat ook inspanningen binnen de EER, dus buiten Nederland, moeten worden verricht.</al>
+  <al>European Employment Services (EURES) is een internationaal netwerk voor arbeidsbemiddeling, dat actief is in de landen die deel uitmaken van de EER. In Nederland vindt men deze dienstverlening bij de vestigingen van het WERKbedrijf UWV. Door middel van EURES kunnen vacatures binnen de EER bekend worden gemaakt en wervingsinspanningen plaatsvinden. Werving binnen de EER via het EURES-netwerk is in het kader van de <extref verwijzing-id="2248020" doc="jci1.3:c:BWBR0007149" bwb-id="BWBR0007149" label-id="1793884">Wav</extref> niet dwingend voorgeschreven; afhankelijk van de aard van de vacature kunnen andere wervingsinspanningen gericht op de Europese arbeidsmarkt doelmatiger en doeltreffender zijn.</al>
+  <al>Wanneer de werkgever kiest voor bemiddeling binnen de EER via het EURES-netwerk gelden de volgende randvoorwaarden:</al>
+  <lijst bwb-ng-variabel-deel="/Artikel5/Opsomming_1" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel5/Opsomming_1/Onderdeel._1">
+      <li.nr>–</li.nr>
+      <al>de vacature dient minimaal zes weken voor het indienen van de aanvraag bekend te zijn gemaakt bij een vestiging van het WERKbedrijf UWV;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel5/Opsomming_1/Onderdeel._2">
+      <li.nr>–</li.nr>
+      <al>de werknemers die via de bemiddeling van EURES komen werken moeten in Nederlandse loondienst zijn.</al>
+    </li>
+  </lijst>
+  <al>Voor tijdelijke banen gelden daarnaast de volgende randvoorwaarden:</al>
+  <lijst bwb-ng-variabel-deel="/Artikel5/Opsomming_2" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel5/Opsomming_2/Onderdeel._1">
+      <li.nr>–</li.nr>
+      <al>de duur van tijdelijke banen dient minimaal zes weken te bedragen;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel5/Opsomming_2/Onderdeel._2">
+      <li.nr>–</li.nr>
+      <al>de werkgever zorgt voor geschikte accommodatie voor de werknemer.</al>
+    </li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0024885&amp;artikel=5&amp;g=2009-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0024885&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=5&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0024885&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="9804713" versie-id="15917532" id="C22036651" label-id="9781214" inwerking="2009-01-01" label="6" bron="Stcrt.2008-244" effect="nieuwe-regeling" ondertekening_bron="2008-12-02" publicatie_bron="2008-12-16" publicatie_iwt="2008-12-30" status="goed">
+  <kop>
+    <nr status="officieel">6</nr>
+    <titel status="officieel">Arbeidsvoorwaarden</titel>
+  </kop>
+  <al>Naast het vermelden op het aanvraagformulier wat de bruto beloning per maand is, dient bij de aanvraag een op naam van de vreemdeling gestelde conceptarbeidsovereenkomst te worden gevoegd welke door de werkgever is ondertekend. Hierin dient minimaal te zijn opgenomen:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel6/Onderdeel._1">
+      <li.nr>–</li.nr>
+      <al>naam, adres en woonplaats van de werkgever;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel6/Onderdeel._2">
+      <li.nr>–</li.nr>
+      <al>de naam van de functie (dient overeen te komen met hetgeen op het aanvraagformulier is vermeld);</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel6/Onderdeel._3">
+      <li.nr>–</li.nr>
+      <al>personalia van de vreemdeling;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel6/Onderdeel._4">
+      <li.nr>–</li.nr>
+      <al>het geboden brutoloon;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel6/Onderdeel._5">
+      <li.nr>–</li.nr>
+      <al>het aantal uren per week;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel6/Onderdeel._6">
+      <li.nr>–</li.nr>
+      <al>de datum waarop de arbeid gestart wordt, alsmede de einddatum (overeenkomstig de gevraagde duur van de vergunning);</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel6/Onderdeel._7">
+      <li.nr>–</li.nr>
+      <al>de handtekening van de werkgever.</al>
+    </li>
+  </lijst>
+  <al>Vreemdelingen dienen conform Nederlandse maatstaven marktconform beloond te worden, ongeacht de nationaliteit van de vreemdeling of de vestigingsplaats van de werkgever. Loon in natura wordt daarbij buiten beschouwing gelaten.</al>
+  <al>Er kan tijdens de geldigheidsduur van de tewerkstellingsvergunning tussentijds om bewijsstukken (bijvoorbeeld bankafschriften en/of loonstroken) van gedane loonbetalingen worden verzocht. Indien deze uitwijzen dat niet juist wordt beloond conform het WML dan wel marktconform, kan een verleende tewerkstellingsvergunning worden ingetrokken.</al>
+  <al>De kosten van werving en scholing verband houdende met het verrichten van arbeid in Nederland, zijn voor rekening van de werkgever. De kosten van vervoer naar Nederland die moeten worden gemaakt door de vreemdeling in verband met zijn (tijdelijke) verblijf in Nederland komen voor rekening van de werkgever.</al>
+  <al>Ook indien in het buitenland gevestigde werkgevers in Nederland werkzaamheden verrichten waarbij vreemdelingen worden te werk gesteld, dienen de vreemdelingen naar Nederlandse maatstaven marktconform beloond te worden.</al>
+  <al>Wanneer de beloning van de vreemdeling door een in het buitenland gevestigde werkgever wordt uitbetaald, dient de verloning in ieder geval in Nederland plaats te vinden indien de vreemdeling langer dan 3 maanden in Nederland arbeid verricht.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0024885&amp;artikel=6&amp;g=2009-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0024885&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=6&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0024885&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="b1-7" stam-id="9804723" versie-id="15917542" id="C22036641" label-id="9781224" inwerking="2009-01-01" label="7" bron="Stcrt.2008-244" effect="nieuwe-regeling" ondertekening_bron="2008-12-02" publicatie_bron="2008-12-16" publicatie_iwt="2008-12-30" status="goed">
+  <kop>
+    <nr status="officieel">7</nr>
+    <titel status="officieel">Internationaal concern</titel>
+  </kop>
+  <al>Het UWV verstaat onder een groot internationaal concern, als bedoeld in <extref doc="onbekend" verwijzing-id="2248028" bwb-id="BWBR0007514" label-id="4953544">paragraaf 19 a van de Uitvoeringsregels Wav</extref>, een groot zelfstandig op winst gericht bedrijf of complex van bedrijven met in meerdere landen gevestigde dochterondernemingen – waaronder in Nederland – en met een jaarlijkse omzet van ten minste € 50 miljoen. Onder een concernonderdeel wordt tevens verstaan een deelneming van 50% of meer in een onderneming.</al>
+  <al>Het UWV verstaat onder een internationaal georiënteerde non-profit organisatie als bedoeld in <extref doc="onbekend" verwijzing-id="2248029" bwb-id="BWBR0007514" label-id="4953544">paragraaf 19d van de Uitvoeringsregels Wav</extref>, een organisatie welke wereldwijd ten minste 50 fte’s in eigen dienst heeft.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0024885&amp;artikel=7&amp;g=2009-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0024885&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=7&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0024885&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="b1-8" stam-id="9804733" versie-id="15917552" id="C22036631" label-id="9781234" inwerking="2009-01-01" label="8" bron="Stcrt.2008-244" effect="nieuwe-regeling" ondertekening_bron="2008-12-02" publicatie_bron="2008-12-16" publicatie_iwt="2008-12-30" status="goed">
+  <kop>
+    <nr status="officieel">8</nr>
+    <titel status="officieel">Vestiging kleinere bedrijven</titel>
+  </kop>
+  <al>Op grond van <extref doc="onbekend" verwijzing-id="2248030" bwb-id="BWBR0007514" label-id="4953544">paragraaf 19 b van de Uitvoeringsregels Wav</extref> wordt ten behoeve van sleutelpersoneel voor het starten, wijzigen of uitbreiden van bedrijfsactiviteiten alleen een tewerkstellingsvergunning afgegeven indien uit een door een deskundige instantie opgesteld ondernemingsplan blijkt dat deze bedrijfsactiviteiten en de onderneming voldoende levensvatbaar en economisch haalbaar zijn. Het betreft hier ondernemingen die niet voldoen aan het omzetcriterium zoals dat geldt voor internationale concerns als bedoeld in <extref doc="onbekend" verwijzing-id="2248031" bwb-id="BWBR0007514" label-id="4953544">paragraaf 19 a van de Uitvoeringsregels Wav</extref>. In de regel zal het bedrijf wel de potentie hebben om in de toekomst aan dit omzetcriterium te kunnen voldoen.</al>
+  <al>In dit ondernemingsplan dienen de volgende fasen te worden onderscheiden.</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel8/Onderdeel1">
+      <li.nr>1.</li.nr>
+      <al>De oriënteringsfase</al>
+      <al>In deze fase weet het bedrijf nog niet of men zich in Nederland of een ander land wil vestigen en ook weet men nog niet waar men zich wil vestigen. Deze fase zal circa maximaal een half jaar duren. In het ondernemingsplan worden deze activiteiten beschreven.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=8&amp;o=1&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel8/Onderdeel2">
+      <li.nr>2.</li.nr>
+      <al>De concretiseringsfase</al>
+      <al>Medewerkers van het bedrijf in het buitenland worden naar Nederland gezonden om zaken te realiseren. Te denken valt aan de aankoop of huur van een pand, het oprichten van een BV, het sluiten van een bankrekening, het regelen van een krediet, vestigingsvergunning, personeel aan nemen. Duidelijk moet zijn welke activiteiten in Nederland zullen worden geïnitieerd, wie de concurrenten zijn, wat de sterke en zwakke punten zullen zijn en hoe men de financiën gaat regelen.</al>
+      <al>Deze fase zal circa een jaar in beslag nemen. In het ondernemingsplan worden deze activiteiten concreet beschreven. Een werkgever kan pas een tewerkstellingsvergunning aanvragen voor fase 3 als de BV is opgericht.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=8&amp;o=2&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel8/Onderdeel3">
+      <li.nr>3.</li.nr>
+      <al>De startfase</al>
+      <al>In deze fase is al het voorbereidende werk gedaan en start men daadwerkelijk met de activiteit in Nederland. Het ondernemingsplan moet duidelijk aangeven wat men gaat doen en hoe de kwartiermaker dit wenst te bereiken. Duidelijk moet ook zijn hoe de financiën geregeld zijn. Waar komt het startkapitaal vandaan, heeft men leningen, kredieten, hypotheken, wie staat garant voor verliezen.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=8&amp;o=3&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+  </lijst>
+  <al>Ten aanzien van elke fase dient beschreven te zijn hoe wordt beoordeeld wat de vorige fase heeft opgeleverd en wat dat betekent voor de vestiging. Wat is onderzocht, wat is geregeld, wat zijn de uitkomsten.</al>
+  <table colsep="0" frame="topbot" pgwide="1" rowsep="0" tabstyle="xml1">
+    <tgroup align="left" char="" charoff="50" cols="2" tgroupstyle="xml1">
+      <colspec colname="col1" colnum="1" colwidth="25*"/>
+      <colspec colname="col2" colnum="2" colwidth="78*"/>
+      <tbody valign="top">
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="1" rotate="0" valign="top">
+            <al>I. De oriënteringsfase</al>
+          </entry>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Onderzoek naar mogelijkheden vestiging in Nederland.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Overleggen van een ondernemingsplan.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Overleggen van verklaring moederbedrijf waaruit beslissing blijkt om vestiging in Nederland te openen, wat doel is van komst vreemdeling en waarin tevens is opgenomen dat vreemdeling bevoegd is alle handelingen te verrichten die hiertoe noodzakelijk zijn.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Duur vergunningverlening in de regel maximaal 6 maanden.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Maximaal 1 vreemdeling, tenzij uit het ondernemingsplan volgt dat de komst van meerdere vreemdelingen noodzakelijk is.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Verlenging in de regel niet mogelijk.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>II. De concretiseringfase</al>
+          </entry>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Verrichten van alle handelingen en werkzaamheden noodzakelijk voor feitelijke start van onderneming in Nederland.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Duur vergunningverlening in de regel maximaal 12 maanden.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Maximaal 2 personen, tenzij wordt gemotiveerd dat de komst van meerdere vreemdelingen noodzakelijk is.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Overleggen van een verslag van verrichte activiteiten in de oriënteringsfase.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Een overzicht van de door de vreemdeling in deze fase uit te voeren activiteiten voorzien van een tijdsplanning.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Verlenging slechts mogelijk indien aangetoond wordt waarom oriëntatiefase nog niet is afgerond.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>III. De startfase</al>
+          </entry>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– De onderneming start haar activiteiten.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Maximaal 2 personen, tenzij moederbedrijf kan onderbouwen waarom meer personen benodigd zijn.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Overleggen van een verslag van verrichte activiteiten in de concretiseringfase.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Het kunnen overleggen van een verklaring van het moederbedrijf dat de vestiging in Nederland van start gaat.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Het opstellen van een volledig uitgewerkt ondernemingplan voorzien van een verklaring van een AA of RA.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>– Zorgdragen voor opnemen in de administratie en zo nodig kunnen overleggen van een bankgarantie/verstrekt krediet/lening/financiële garantstelling van moederbedrijf in de vorm van tegoed op Nederlandse bankrekening.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>Tussentijds verstrekken informatie</al>
+          </entry>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>Aan de vergunning kan het voorschrift worden verbonden dat aan het einde van een fase jaarstukken, balansen en winst- en verliesrekeningen moeten worden overgelegd.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>Zekerheid loonbetaling</al>
+          </entry>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>Aan de vergunning kan het voorschrift worden verbonden dat tussentijds en/of bij verlenging loonstroken zullen worden overlegd waaruit blijkt dat de vreemdeling toegezegde loon heeft ontvangen.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>Verlenging</al>
+          </entry>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>Indien een bedrijf een verlenging wenst van de verleende vergunning, moet aangetoond worden dat het bedrijf levensvatbaar is gebleken. Hiertoe dient bij de aanvraag te worden overlegd een balans / jaarrekening, voorzien van verlies- en winstrekening, voorzien van een accountantsverklaring.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>Tevens zal informatie moeten worden verstrekt over het totale personeelsbestand van de vestiging in Nederland (dus zowel vergunningplichtig als niet-vergunningplichtig personeel).</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>Komst kwartiermaker</al>
+          </entry>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>Indien langer dan 5 weken niet van vergunning gebruik wordt gemaakt dient de werkgever dit te melden bij UWV. Voorst zal de vergunning op grond van <extref verwijzing-id="2248021" doc="jci1.3:c:BWBR0007149&amp;artikel=12" bwb-id="BWBR0007149" label-id="1793654">artikel 12 lid 1 onder b Wav</extref> worden ingetrokken indien het verblijf aan de vreemdeling wordt geweigerd. De werkgever is verplicht dit te melden aan UWV.</al>
+          </entry>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top"/>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top"/>
+        </row>
+        <row rowsep="0">
+          <entry align="left" colname="col1" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>Melden wijzigingen</al>
+          </entry>
+          <entry align="left" colname="col2" colsep="0" morerows="0" rotate="0" valign="top">
+            <al>Indien er wijzigingen optreden in bijvoorbeeld adres, rechtsvorm (een BV i.o wordt BV), concrete datum van de start van activiteiten en andere zaken, zal de werkgever dit direct melden aan UWV desgevraagd met bewijsstukken zoals bijvoorbeeld een uittreksel KvK. Indien dit wordt nagelaten kan dit leiden tot intrekken van de verleende vergunning.</al>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0024885&amp;artikel=8&amp;g=2009-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0024885&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=8&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0024885&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" stam-id="9804743" versie-id="15917562" id="C22036621" label-id="9781244" inwerking="2009-01-01" label="9" bron="Stcrt.2008-244" effect="nieuwe-regeling" ondertekening_bron="2008-12-02" publicatie_bron="2008-12-16" publicatie_iwt="2008-12-30" status="goed">
+  <kop>
+    <nr status="officieel">9</nr>
+    <titel status="officieel">Stagiairs</titel>
+  </kop>
+  <al>Het niveau van de opleiding is mede bepalend voor de duur van de stage in Nederland. De in het stageprogramma opgenomen leerdoelen dienen in overeenstemming te zijn met het opleidingsniveau. Het gefaseerde stageprogramma dient te omschrijven welke werkzaamheden de stagiair zal gaan verrichten en binnen welk tijdsbestek deze dienen te worden voltooid. De inhoud van de stage moet zodanig zijn omschreven zodat kan worden beoordeeld of de stage past bij het niveau van de opleiding.</al>
+  <al>Voor ongeschoolde dan wel laaggeschoolde arbeid op VBO-niveau geldt dat het volgen van een stage in Nederland in zijn algemeenheid niet noodzakelijk is voor het voltooien van de opleiding. Daarvoor zal in de regel geen tewerkstellingsvergunning worden verleend, tenzij die noodzaak voor het voltooien van de opleiding voldoende aannemelijk wordt gemaakt.</al>
+  <al>Voor stages op MBO-niveau geldt dat de duur van de stage in de regel niet langer is dan 6 maanden, zodat hiervoor een tewerkstellingsvergunning voor ten hoogste 6 maanden wordt verleend.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0024885&amp;artikel=9&amp;g=2009-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0024885&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=9&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0024885&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="9804753" versie-id="15917572" id="C22036611" label-id="9781254" inwerking="2009-01-01" label="10" bron="Stcrt.2008-244" effect="nieuwe-regeling" ondertekening_bron="2008-12-02" publicatie_bron="2008-12-16" publicatie_iwt="2008-12-30" status="goed">
+  <kop>
+    <nr status="officieel">10</nr>
+    <titel status="officieel">Practicanten</titel>
+  </kop>
+  <al>Het aantal practicanten voor wie een werkgever een tewerkstellingsvergunning aanvraagt dient in een redelijke verhouding te staan tot het totaal aantal werknemers dat bij de (vestiging van de) werkgever werkzaam is. Een redelijke verhouding is dat het aantal practicanten niet meer bedraagt dan 10% van het vaste personeelsbestand van de werkgever met een minimum van 2 practicanten. Aanvragen om een tewerkstellingsvergunning die boven dit percentage uitgaan worden in de regel afgewezen.</al>
+  <al>Het leerplan dient in tijd gefaseerd te zijn en helder te omschrijven welke werkzaamheden worden verricht, binnen welk tijdsbestek deze dienen te worden voltooid, hoe deze worden geëvalueerd en wie verantwoordelijk is voor de begeleiding van de practicant.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0024885&amp;artikel=10&amp;g=2009-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0024885&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=10&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0024885&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" stam-id="9804763" versie-id="15917582" id="C22036601" label-id="9781264" inwerking="2009-01-01" label="11" bron="Stcrt.2008-244" effect="nieuwe-regeling" ondertekening_bron="2008-12-02" publicatie_bron="2008-12-16" publicatie_iwt="2008-12-30" status="goed">
+  <kop>
+    <nr status="officieel">11</nr>
+    <titel status="officieel">Vrijwilligerswerk door vreemdelingen</titel>
+  </kop>
+  <al>Op grond van <extref verwijzing-id="2248022" doc="jci1.3:c:BWBR0007523&amp;artikel=1a" bwb-id="BWBR0007523" label-id="1989134">artikel 1a van het Besluit van 23 augustus 1995 ter uitvoering van de Wav</extref> (Stb. 1995, 406; laatstelijk gewijzigd bij Besluit van 31 januari 2008, Stb. 2008, 38) is het asielzoekers, die in het bezit zijn van een W-document, of regulier en vreemdelingen die in afwachting zijn van een verzoek om voortgezet verblijf en niet met uitzetting worden bedreigd, toegestaan als vrijwilliger deel te nemen aan arbeid:</al>
+  <lijst bwb-ng-variabel-deel="/Artikel11/Opsomming_1" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_1/Onderdeel._1">
+      <li.nr>–</li.nr>
+      <al>die gebruikelijk onbetaald is,</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_1/Onderdeel._2">
+      <li.nr>–</li.nr>
+      <al>die geen winstoogmerk heeft en</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_1/Onderdeel._3">
+      <li.nr>–</li.nr>
+      <al>die een algemeen maatschappelijk belang dient.</al>
+    </li>
+  </lijst>
+  <al>De Raad van bestuur toetst of er sprake is van vrijwilligerswerk en geeft als bewijs daarvan een schriftelijke verklaring, de Vrijwilligersverklaring, af aan de werkgever. Indien aan de voorwaarden met betrekking tot de vreemdeling wordt voldaan en de werkgever beschikt over deze Vrijwilligersverklaring, is het verbod dat een werkgever een vreemdeling niet in Nederland arbeid mag laten verrichten (<extref verwijzing-id="2248023" doc="jci1.3:c:BWBR0007149&amp;artikel=2" bwb-id="BWBR0007149" label-id="1793554">artikel 2, eerste lid Wav</extref>) niet van toepassing voor deze arbeid. Omdat de Vrijwilligersverklaring zich richt op het aanwijzen van bepaalde werkzaamheden als zijnde vrijwilligerswerk, behoeft een werkgever niet een nieuwe Vrijwilligersverklaring te vragen indien hij dit werk door andere of meerdere vreemdelingen laat verrichten. Indien een vreemdeling niet in bovengenoemde categorieën valt, of de werkgever beschikt niet over de Vrijwilligersverklaring, is de <extref verwijzing-id="2248024" doc="jci1.3:c:BWBR0007149" bwb-id="BWBR0007149" label-id="1793884">Wav</extref> volledig van toepassing, inclusief de strafrechtelijke sancties voor het tewerkstellen van vreemdelingen zonder tewerkstellingsvergunning.</al>
+  <al>Voor het aanvragen van de Vrijwilligersverklaring is een formulier vastgesteld dat verkrijgbaar is bij de afdeling Arbeidsjuridische dienstverlening Zoetermeer (tel. 079-750 29 03).</al>
+  <al>De ingevulde en ondertekende aanvraagformulieren moeten worden ingediend bij het WERKbedrijf UWV, afdeling Arbeidsjuridische dienstverlening, Postbus 883, 2700 AW Zoetermeer.</al>
+  <al>Om een indruk te geven welke werkzaamheden als vrijwilligerswerk kunnen worden aangemerkt, heeft de Raad van bestuur onderstaande (niet limitatieve) lijst opgesteld.</al>
+  <al>Voor de werkzaamheden in deze lijst genoemd, wordt een Vrijwilligersverklaring afgegeven mits aan de drie bovengenoemde wettelijke criteria wordt voldaan:</al>
+  <lijst bwb-ng-variabel-deel="/Artikel11/Opsomming_2" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_2/Onderdeel1">
+      <li.nr>1.</li.nr>
+      <al>activiteiten voor kerkelijke en levensbeschouwelijke organisaties;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=11&amp;o=1&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_2/Onderdeel2">
+      <li.nr>2.</li.nr>
+      <al>activiteiten in gemeenschapshuizen, club- en buurthuizen;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=11&amp;o=2&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_2/Onderdeel3">
+      <li.nr>3.</li.nr>
+      <al>activiteiten voor hobby- en vrije-tijdclubs;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=11&amp;o=3&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_2/Onderdeel4">
+      <li.nr>4.</li.nr>
+      <al>activiteiten in de amateur- en recreatiesport;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=11&amp;o=4&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=4"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_2/Onderdeel5">
+      <li.nr>5.</li.nr>
+      <al>activiteiten in de amateuristische kunstbeoefening;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=11&amp;o=5&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=5"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_2/Onderdeel6">
+      <li.nr>6.</li.nr>
+      <al>activiteiten voor folklore, (volks)cultuur en natuur;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=11&amp;o=6&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=6"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_2/Onderdeel7">
+      <li.nr>7.</li.nr>
+      <al>activiteiten voor vrouwenorganisaties en emancipatiebeweging;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=11&amp;o=7&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=7"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_2/Onderdeel8">
+      <li.nr>8.</li.nr>
+      <al>activiteiten voor niet-commerciële winkels, zoals rechts- en wetswinkels, onderwijswinkels, gezondheidswinkels;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=11&amp;o=8&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=8"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_2/Onderdeel9">
+      <li.nr>9.</li.nr>
+      <al>activiteiten in onderwijsinstellingen voorzover kinderen van de betrokkenen aan die instellingen onderwijs ontvangen;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=11&amp;o=9&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=9"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_2/Onderdeel10">
+      <li.nr>10.</li.nr>
+      <al>activiteiten van organisaties die gericht zijn op (ontwikkelings)hulp aan de derde-wereld;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=11&amp;o=10&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=10"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_2/Onderdeel11">
+      <li.nr>11.</li.nr>
+      <al>activiteiten in bejaarden- en verpleegcentra, voor wat betreft: begeleid wandelen, voorlezen/gezelschap houden, begeleiding naar arts/ziekenhuis/ondersteuning niet-professioneel welfare-werk, verzorging maaltijdvoorzieningen voor ouderen binnen de wijk, bibliotheek;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=11&amp;o=11&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=11"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_2/Onderdeel12">
+      <li.nr>12.</li.nr>
+      <al>activiteiten in de maatschappelijke dienstverlening en gezondheidszorg, zoals Rode Kruis (welfare en kolonnewerk), Leger des Heils, EHBO-verenigingen, actie- en belangengroepen zoals Vluchtelingenwerk Nederland, Amnesty International, vredeswerkgroepen;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=11&amp;o=12&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=12"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_2/Onderdeel13">
+      <li.nr>13.</li.nr>
+      <al>activiteiten voor instellingen op het gebied van bescherming en behoud van dieren, natuur en milieu, zoals de dierenambulance, dierenbescherming, dierenopvang, kinderboerderij, knotten van wilgen, onderhoud van staatsbossen;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=11&amp;o=13&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=13"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_2/Onderdeel14">
+      <li.nr>14.</li.nr>
+      <al>activiteiten die binnen een asielzoekerscentrum worden verricht voor alle gebruikelijke ‘doe het zelf’-werkzaamheden zoals het schoonmaken, het helpen in de keuken, het onderhoud van tuinen en voorkomende onderhoud- en reparatiewerkzaamheden, voorzover deze werkzaamheden niet worden verricht ten dienste van derden.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=11&amp;o=14&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=14"/></jcis></meta-data></li>
+  </lijst>
+  <al>Werkzaamheden waarvoor geen Vrijwilligersverklaring wordt afgegeven – ongeacht de instelling waarvoor de werkzaamheden worden verricht – zijn onder meer:</al>
+  <lijst bwb-ng-variabel-deel="/Artikel11/Opsomming_3" level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_3/Onderdeel._1">
+      <li.nr>–</li.nr>
+      <al>restauratie-werkzaamheden/groot onderhoud;</al>
+    </li>
+    <li bwb-ng-variabel-deel="/Artikel11/Opsomming_3/Onderdeel._2">
+      <li.nr>–</li.nr>
+      <al>kinderopvang.</al>
+    </li>
+  </lijst>
+  <al>Aangezien de activiteiten geen winstoogmerk mogen hebben en een algemeen maatschappelijk belang moeten dienen, zijn werkgevers in de profit-sector uitgesloten van het verkrijgen van een Vrijwilligersverklaring.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0024885&amp;artikel=11&amp;g=2009-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0024885&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=11&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0024885&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" stam-id="9804773" versie-id="15917592" id="C22036591" label-id="9781274" inwerking="2009-01-01" label="12" bron="Stcrt.2008-244" effect="nieuwe-regeling" ondertekening_bron="2008-12-02" publicatie_bron="2008-12-16" publicatie_iwt="2008-12-30" status="goed">
+  <kop>
+    <nr status="officieel">12</nr>
+    <titel status="officieel">Citeertitel</titel>
+  </kop>
+  <al>Dit besluit kan worden aangehaald als: UWV Beleidsregels uitvoering Wav.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0024885&amp;artikel=12&amp;g=2009-01-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0024885&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=12&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0024885&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" stam-id="9804783" versie-id="15917602" id="C22036581" label-id="9781284" inwerking="2009-01-01" label="13" bron="Stcrt.2008-244" effect="nieuwe-regeling" ondertekening_bron="2008-12-02" publicatie_bron="2008-12-16" publicatie_iwt="2008-12-30" status="goed">
+  <kop>
+    <nr status="officieel">13</nr>
+    <titel status="officieel">Inwerkingtreding</titel>
+  </kop>
+  <al>Dit besluit vervangt de beleidsregels CWI uitvoering Wet arbeid vreemdelingen (Stcrt. 2002, 19).</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0024885&amp;artikel=13&amp;g=2009-01-01" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0024885&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;artikel=13&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0024885&amp;artikel=13"/></jcis></meta-data></artikel>
+    </regeling-tekst>
+    <regeling-sluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="9804793" versie-id="15917612" id="C22036741" label-id="9781294" inwerking="2009-01-01" bron="Stcrt.2008-244" effect="nieuwe-regeling" ondertekening_bron="2008-12-02" publicatie_bron="2008-12-16" publicatie_iwt="2008-12-30" status="goed">
+  <slotformulering>
+    <al>Indien het bij Koninklijke boodschap van 24 juni 2008 ingediende voorstel van wet houdende Wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen en enkele andere wetten in verband met de evaluatie van deze wet, de Kaderwet zelfstandige bestuursorganen en deregulering (31514) tot wet is verheven en die wet in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na het in de vorige volzin bedoelde tijdstip, treedt het in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met genoemd tijdstip.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Amsterdam</plaats>
+      <datum isodatum="2008-12-02">2 december 2008</datum>
+    </dagtekening>
+  </gegeven>
+  <ondertekening>
+    <organisatie>Voorzitter Raad van bestuur</organisatie>, <naam><voornaam>J.M.</voornaam><achternaam>Linthorst</achternaam></naam></ondertekening>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata></meta-data></regeling-sluiting>
+    <bijlage bwb-ng-variabel-deel="/Bijlage1" stam-id="9804803" versie-id="15917622" id="C22036721" label-id="9781304" inwerking="2009-01-01" label="Bijlage 1" bron="Stcrt.2008-244" effect="nieuwe-regeling" ondertekening_bron="2008-12-02" publicatie_bron="2008-12-16" publicatie_iwt="2008-12-30" status="goed">
+  <kop>
+    <label>Bijlage</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <al>Het Uitvoeringsinstituut werknemersverzekeringen besluit, onder verwijzing naar <extref doc="onbekend" verwijzing-id="2248032" bwb-id="BWBR0007514" label-id="4953544">paragraaf 16 van de Uitvoeringsregels Wav</extref> (Stcrt. 2008, 120) en <intref verwijzing-id="2248070" doc="jci1.3:c:BWBR0024885&amp;artikel=3&amp;z=2009-01-01&amp;g=2009-01-01" bwb-id="BWBR0024885" label-id="9781184" bwb-ng-variabel-deel="/Artikel3">paragraaf 3</intref> van dit Besluit, om gedurende een periode van een jaar, met ingang van 1 januari 2009, bij de behandeling van een aanvraag om een tewerkstellingsvergunning voor de volgende categorieën van functies de weigeringsgrond van <extref verwijzing-id="2248025" doc="jci1.3:c:BWBR0007149&amp;artikel=8" bwb-id="BWBR0007149" label-id="1793614">artikel 8, eerste lid, aanhef en onder b, Wav</extref> achterwege te laten:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Bijlage1/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>hogere leidinggevende en specialistische functies met een brutosalaris van tenminste € 3.900 per maand;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;bijlage=1&amp;o=a&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Bijlage1/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>coaches sport;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;bijlage=1&amp;o=b&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Bijlage1/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>sporters;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;bijlage=1&amp;o=c&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Bijlage1/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al>artiesten en hun noodzakelijke ondersteunende functionarissen.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;bijlage=1&amp;o=d&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0024885&amp;bijlage=1&amp;g=2009-01-01" onderdeel="bijlage=1" korte-verwijzing="1.0:c:BWBR0024885&amp;bijlage=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;bijlage=1&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="bijlage=1" korte-verwijzing="jci1.3:c:BWBR0024885&amp;bijlage=1"/></jcis></meta-data></bijlage>
+    <bijlage bwb-ng-variabel-deel="/Bijlage2" stam-id="9804813" versie-id="15917632" id="C22036711" label-id="9781314" inwerking="2009-01-01" label="Bijlage 2" bron="Stcrt.2008-244" effect="nieuwe-regeling" ondertekening_bron="2008-12-02" publicatie_bron="2008-12-16" publicatie_iwt="2008-12-30" status="goed">
+  <kop>
+    <label>Bijlage</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <divisie bwb-ng-variabel-deel="/Bijlage2/Divisie" opmaak="default">
+    <kop>
+      <titel status="officieel">Aanvraagformulier TWV (AV320)</titel>
+    </kop>
+    <al>Huidige versie is voorgelegd aan Afdeling Communicatie met verzoek aanpassingen door te voeren i.v.m. fusie (vervangen CWI door WERKbedrijf UWV (inclusief vervangen logo) en Juridische Zaken door Arbeidsjuridische Dienstverlening). Herziene versie is nog niet beschikbaar maar zal zo spoedig mogelijk worden nagezonden.</al>
+  </divisie>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0024885&amp;bijlage=2&amp;g=2009-01-01" onderdeel="bijlage=2" korte-verwijzing="1.0:c:BWBR0024885&amp;bijlage=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;bijlage=2&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="bijlage=2" korte-verwijzing="jci1.3:c:BWBR0024885&amp;bijlage=2"/></jcis></meta-data></bijlage>
+  </regeling>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier="stcrt-2008-1975"><publicatiejaar>2008</publicatiejaar><publicatienr>244</publicatienr><uitgiftedatum isodatum="2008-12-16">16-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-02">02-12-2008</ondertekeningsdatum></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2008-601"><publicatiejaar>2008</publicatiejaar><publicatienr>601</publicatienr><uitgiftedatum isodatum="2008-12-30">30-12-2008</uitgiftedatum><ondertekeningsdatum isodatum="2008-12-29">29-12-2008</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2009-01-01">01-01-2009</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt.
+</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0024885&amp;g=2009-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0024885"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0024885&amp;z=2009-01-01&amp;g=2009-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0024885"/></jcis></meta-data></wetgeving></toestand>

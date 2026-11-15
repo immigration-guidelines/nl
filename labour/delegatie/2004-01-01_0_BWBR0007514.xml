@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0007514/2004-01-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2015-2/xsd/toestand_2015-2.xsd" bwb-id="BWBR0007514" inwerkingtreding="2004-01-01"><bwb-inputbestand>BWBR0007514_2003-06-05_0</bwb-inputbestand><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="ministeriele-regeling" xml:lang="nl" stam-id="4976653" versie-id="8640562" id="C11189551" label-id="4953564" inwerkingtredingsdatum="1995-09-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="4976673" versie-id="8640382" id="C11189371" label-id="4953384" inwerking="1995-09-01" status="goed">Delegatie- en uitvoeringsbesluit Wet arbeid vreemdelingen</intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="4976683" versie-id="8640392" id="C11189381" label-id="4953394" inwerking="1995-09-01">Delegatie- en uitvoeringsbesluit Wet arbeid vreemdelingen</citeertitel>
+  <regeling>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="4976693" versie-id="8640402" id="C12458841" label-id="4953404" inwerking="1995-09-01" status="goed">
+  <wie>De Minister van Sociale Zaken en Werkgelegenheid,</wie>
+  <considerans>
+    <considerans.al bevat="grondslag">Gelet op de <extref verwijzing-id="1789684" doc="jci1.3:c:BWBR0007149&amp;artikel=5" bwb-id="BWBR0007149" label-id="1793584">artikelen 5, tweede lid</extref>, <extref verwijzing-id="1789685" doc="jci1.3:c:BWBR0007149&amp;artikel=8" bwb-id="BWBR0007149" label-id="1793614">8, tweede lid</extref>, <extref verwijzing-id="1789686" doc="jci1.3:c:BWBR0007149&amp;artikel=9" bwb-id="BWBR0007149" label-id="1793624">9, onder d</extref>, en <extref verwijzing-id="1789687" doc="jci1.3:c:BWBR0007149&amp;artikel=22" bwb-id="BWBR0007149" label-id="1793774">22 van de Wet arbeid vreemdelingen</extref>;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Besluit:</al>
+  </afkondiging>
+</aanhef>
+    <regeling-tekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="4976703" versie-id="8640412" id="C11189401" label-id="4953414" inwerking="2002-01-06" label="Artikel 1" bron="Stcrt.2002-3" effect="wijziging" ondertekening_bron="2001-12-21" publicatie_bron="2002-01-04" publicatie_iwt="2002-01-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <al>De bevoegdheid inzake het afgeven, verlengen en intrekken van tewerkstellingsvergunningen wordt overgedragen aan de Centrale organisatie werk en inkomen.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stcrt" urlidentifier=""><publicatiejaar>2002</publicatiejaar><publicatienr>3</publicatienr><uitgiftedatum isodatum="2002-01-04">04-01-2002</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-21">21-12-2001</ondertekeningsdatum><kenmerk>AM/RAW/01/87911</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stcrt" urlidentifier=""><publicatiejaar>2002</publicatiejaar><publicatienr>3</publicatienr><uitgiftedatum isodatum="2002-01-04">04-01-2002</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-21">21-12-2001</ondertekeningsdatum><kenmerk>AM/RAW/01/87911</kenmerk></publicatie><inwerkingtreding.datum isodatum="2002-01-06">06-01-2002</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2002-01-01">01-01-2002</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007514&amp;artikel=1&amp;g=2004-01-01" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0007514&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=1&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0007514&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="" stam-id="4976713" versie-id="8640422" id="C14445151" label-id="4953424" inwerking="2002-01-06" label="Artikel 2" bron="Stcrt.2002-3" effect="wijziging" ondertekening_bron="2001-12-21" publicatie_bron="2002-01-04" publicatie_iwt="2002-01-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <al>Bij de uitoefening van de bevoegdheden, bedoeld in <intref verwijzing-id="1789678" doc="jci1.3:c:BWBR0007514&amp;artikel=1&amp;z=2003-06-05&amp;g=2004-01-01" bwb-id="BWBR0007514" label-id="4953414" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref>, neemt de Centrale organisatie werk en inkomen, naast de in de <extref verwijzing-id="1864480" doc="jci1.3:c:BWBR0007149" bwb-id="BWBR0007149" label-id="1793884">Wet arbeid vreemdelingen</extref>, het <extref verwijzing-id="1864481" doc="jci1.3:c:BWBR0007523" bwb-id="BWBR0007523" label-id="1989124">Besluit ter uitvoering van de Wet arbeid vreemdelingen</extref> en in dit besluit gestelde regels, de nadere regels in acht inzake de wijze van toepassing van de <extref verwijzing-id="1789680" doc="jci1.3:c:BWBR0007149" bwb-id="BWBR0007149" label-id="1793884">Wet arbeid vreemdelingen</extref> zoals die zijn neergelegd in de uitvoeringsregels behorende bij dit besluit.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stcrt" urlidentifier=""><publicatiejaar>2002</publicatiejaar><publicatienr>3</publicatienr><uitgiftedatum isodatum="2002-01-04">04-01-2002</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-21">21-12-2001</ondertekeningsdatum><kenmerk>AM/RAW/01/87911</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stcrt" urlidentifier=""><publicatiejaar>2002</publicatiejaar><publicatienr>3</publicatienr><uitgiftedatum isodatum="2002-01-04">04-01-2002</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-21">21-12-2001</ondertekeningsdatum><kenmerk>AM/RAW/01/87911</kenmerk></publicatie><inwerkingtreding.datum isodatum="2002-01-06">06-01-2002</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2002-01-01">01-01-2002</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007514&amp;artikel=2&amp;g=2004-01-01" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0007514&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=2&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0007514&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="4976723" versie-id="8640432" id="C11189421" label-id="4953434" inwerking="2002-01-06" label="Artikel 3" bron="Stcrt.2002-3" effect="wijziging" ondertekening_bron="2001-12-21" publicatie_bron="2002-01-04" publicatie_iwt="2002-01-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Vervallen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stcrt" urlidentifier=""><publicatiejaar>2002</publicatiejaar><publicatienr>3</publicatienr><uitgiftedatum isodatum="2002-01-04">04-01-2002</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-21">21-12-2001</ondertekeningsdatum><kenmerk>AM/RAW/01/87911</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stcrt" urlidentifier=""><publicatiejaar>2002</publicatiejaar><publicatienr>3</publicatienr><uitgiftedatum isodatum="2002-01-04">04-01-2002</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-21">21-12-2001</ondertekeningsdatum><kenmerk>AM/RAW/01/87911</kenmerk></publicatie><inwerkingtreding.datum isodatum="2002-01-06">06-01-2002</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2002-01-01">01-01-2002</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007514&amp;artikel=3&amp;g=2004-01-01" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0007514&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=3&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0007514&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="" stam-id="4976733" versie-id="8640442" id="C22662231" label-id="4953444" inwerking="1995-09-01" label="Artikel 4" bron="Stcrt.1995-168" effect="nieuwe-regeling" ondertekening_bron="1995-08-17" publicatie_bron="1995-08-31" publicatie_iwt="1995-08-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <al>Voor aanvragen die geschoold werk betreffen, dienen bij de personalia van de werknemer de gewaarmerkte diploma’s en getuigschriften dat aan de vereiste kwalificaties is voldaan, bij de vergunningaanvraag te worden gevoegd. De waarde van deze documenten dient te kunnen worden geverifieerd aan de hand van een door een deskundige instantie afgegeven verklaring met welk Nederlands diploma of welke graad van vakbekwaamheid deze documenten vergelijkbaar zijn. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier=""><publicatiejaar>1995</publicatiejaar><publicatienr>168</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-17">17-08-1995</ondertekeningsdatum><kenmerk>AM/AAB/95/5573-b</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-406"><publicatiejaar>1995</publicatiejaar><publicatienr>406</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-23">23-08-1995</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1995-09-01">01-09-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007514&amp;artikel=4&amp;g=2004-01-01" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0007514&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=4&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0007514&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="" stam-id="4976743" versie-id="8640452" id="C22662241" label-id="4953454" inwerking="1995-09-01" label="Artikel 5" bron="Stcrt.1995-168" effect="nieuwe-regeling" ondertekening_bron="1995-08-17" publicatie_bron="1995-08-31" publicatie_iwt="1995-08-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5</nr>
+  </kop>
+  <al>De houder van de tewerkstellingsvergunning is verplicht hiervan onverwijld mededeling te doen indien van de tewerkstellingsvergunning langer dan een maand geen gebruik wordt gemaakt.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier=""><publicatiejaar>1995</publicatiejaar><publicatienr>168</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-17">17-08-1995</ondertekeningsdatum><kenmerk>AM/AAB/95/5573-b</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-406"><publicatiejaar>1995</publicatiejaar><publicatienr>406</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-23">23-08-1995</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1995-09-01">01-09-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007514&amp;artikel=5&amp;g=2004-01-01" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0007514&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=5&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0007514&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="" stam-id="4976753" versie-id="8640462" id="C22662251" label-id="4953464" inwerking="1995-09-01" label="Artikel 6" bron="Stcrt.1995-168" effect="nieuwe-regeling" ondertekening_bron="1995-08-17" publicatie_bron="1995-08-31" publicatie_iwt="1995-08-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <al>Afwijking van <extref verwijzing-id="1789681" doc="jci1.3:c:BWBR0007149&amp;artikel=8" bwb-id="BWBR0007149" label-id="1793614">artikel 8, eerste lid, onder b, van de Wet arbeid vreemdelingen</extref> vindt slechts plaats in geval er sprake is van buitengewone omstandigheden die een spoedige vervulling van de arbeidsplaats noodzakelijk maken en die niet door de werkgever waren te voorzien of door hem te beïnvloeden waren.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier=""><publicatiejaar>1995</publicatiejaar><publicatienr>168</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-17">17-08-1995</ondertekeningsdatum><kenmerk>AM/AAB/95/5573-b</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-406"><publicatiejaar>1995</publicatiejaar><publicatienr>406</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-23">23-08-1995</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1995-09-01">01-09-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007514&amp;artikel=6&amp;g=2004-01-01" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0007514&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=6&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0007514&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="" stam-id="4976763" versie-id="8640472" id="C22662261" label-id="4953474" inwerking="1995-09-01" label="Artikel 7" bron="Stcrt.1995-168" effect="nieuwe-regeling" ondertekening_bron="1995-08-17" publicatie_bron="1995-08-31" publicatie_iwt="1995-08-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <al>Afwijking van <extref verwijzing-id="1789682" doc="jci1.3:c:BWBR0007149&amp;artikel=8" bwb-id="BWBR0007149" label-id="1793614">artikel 8, eerste lid, onder a en b, van de Wet arbeid vreemdelingen</extref> vindt slechts plaats ten behoeve van de bevordering van internationale handelscontacten als omschreven in de bij dit besluit behorende uitvoeringsregels.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier=""><publicatiejaar>1995</publicatiejaar><publicatienr>168</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-17">17-08-1995</ondertekeningsdatum><kenmerk>AM/AAB/95/5573-b</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-406"><publicatiejaar>1995</publicatiejaar><publicatienr>406</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-23">23-08-1995</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1995-09-01">01-09-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007514&amp;artikel=7&amp;g=2004-01-01" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0007514&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=7&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0007514&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="" stam-id="4976773" versie-id="8640482" id="C22662271" label-id="4953484" inwerking="1995-09-01" label="Artikel 8" bron="Stcrt.1995-168" effect="nieuwe-regeling" ondertekening_bron="1995-08-17" publicatie_bron="1995-08-31" publicatie_iwt="1995-08-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">8</nr>
+  </kop>
+  <al>Afwijking van <extref verwijzing-id="1789683" doc="jci1.3:c:BWBR0007149&amp;artikel=8" bwb-id="BWBR0007149" label-id="1793614">artikel 8, eerste lid, onder a, b en d, van de Wet arbeid vreemdelingen</extref> vindt slechts plaats in het kader van scholing, opleiding, internationale uitwisseling en andere internationale culturele contacten alsmede ten behoeve van vreemdelingen die beschikken over een voor het verrichten van arbeid geldige vergunning tot verblijf, voor zover dit in de bij dit besluit behorende uitvoeringsregels is omschreven. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier=""><publicatiejaar>1995</publicatiejaar><publicatienr>168</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-17">17-08-1995</ondertekeningsdatum><kenmerk>AM/AAB/95/5573-b</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-406"><publicatiejaar>1995</publicatiejaar><publicatienr>406</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-23">23-08-1995</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1995-09-01">01-09-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007514&amp;artikel=8&amp;g=2004-01-01" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0007514&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=8&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0007514&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="" stam-id="4976783" versie-id="8640492" id="C22662281" label-id="4953494" inwerking="1995-09-01" label="Artikel 9" bron="Stcrt.1995-168" effect="nieuwe-regeling" ondertekening_bron="1995-08-17" publicatie_bron="1995-08-31" publicatie_iwt="1995-08-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">9</nr>
+  </kop>
+  <al>Een tewerkstellingsvergunning kan worden geweigerd ten aanzien van een niet eerder toegelaten vreemdeling die jonger is dan 18 jaar of ouder dan 45 jaar. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier=""><publicatiejaar>1995</publicatiejaar><publicatienr>168</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-17">17-08-1995</ondertekeningsdatum><kenmerk>AM/AAB/95/5573-b</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-406"><publicatiejaar>1995</publicatiejaar><publicatienr>406</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-23">23-08-1995</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1995-09-01">01-09-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007514&amp;artikel=9&amp;g=2004-01-01" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0007514&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=9&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0007514&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" stam-id="4976793" versie-id="8640502" id="C12458771" label-id="4953504" inwerking="2002-01-06" label="Artikel 10" bron="Stcrt.2002-3" effect="wijziging" ondertekening_bron="2001-12-21" publicatie_bron="2002-01-04" publicatie_iwt="2002-01-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+  <al>De Centrale organisatie werk en inkomen brengt jaarlijks aan de Minister van Sociale Zaken en Werkgelegenheid verslag uit omtrent de wijze waarop de bevoegdheid, bedoeld in <intref verwijzing-id="1789674" doc="jci1.3:c:BWBR0007514&amp;artikel=1&amp;z=2003-06-05&amp;g=2004-01-01" bwb-id="BWBR0007514" label-id="4953414" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref>, is uitgeoefend.</al>
+  <al>Dit verslag betreft in ieder geval:</al>
+  <lijst nr-sluiting="">
+    <li bwb-ng-variabel-deel="/Artikel10/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al> een opgave van het aantal tewerkstellingsvergunningen dat is aangevraagd;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=10&amp;o=a&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel10/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al> een opgave van het aantal tewerkstellingsvergunningen dat is verleend onderscheidenlijk geweigerd, onder vermelding van de weigeringsgrond;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=10&amp;o=b&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel10/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al> een opgave van het aantal personen waarop de verleende tewerkstellingsvergunningen betrekking hebben;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=10&amp;o=c&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel10/Onderdeeld">
+      <li.nr>d.</li.nr>
+      <al> een opgave van het aantal malen dat aan de verleende tewerkstellingsvergunningen beperkingen dan wel voorschriften zijn verbonden;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=10&amp;o=d&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel10/Onderdeele">
+      <li.nr>e.</li.nr>
+      <al> een opgave van het aantal tewerkstellingsvergunningen dat is ingetrokken, onder vermelding van de intrekkingsgrond;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=10&amp;o=e&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel10/Onderdeelf">
+      <li.nr>f.</li.nr>
+      <al> een opgave van het aantal bezwaarschriften dat tegen de onderscheiden beslissingen is ingediend, van het aantal malen dat deze zijn ingewilligd onderscheidenlijk afgewezen, en van het aantal malen dat tegen de beslissing op het bezwaarschrift beroep bij de rechter is ingesteld;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=10&amp;o=f&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel10/Onderdeelg">
+      <li.nr>g.</li.nr>
+      <al> een opgave van de termijnen waarbinnen de onder b en f bedoelde beslissingen zijn genomen.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=10&amp;o=g&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stcrt" urlidentifier=""><publicatiejaar>2002</publicatiejaar><publicatienr>3</publicatienr><uitgiftedatum isodatum="2002-01-04">04-01-2002</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-21">21-12-2001</ondertekeningsdatum><kenmerk>AM/RAW/01/87911</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stcrt" urlidentifier=""><publicatiejaar>2002</publicatiejaar><publicatienr>3</publicatienr><uitgiftedatum isodatum="2002-01-04">04-01-2002</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-21">21-12-2001</ondertekeningsdatum><kenmerk>AM/RAW/01/87911</kenmerk></publicatie><inwerkingtreding.datum isodatum="2002-01-06">06-01-2002</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2002-01-01">01-01-2002</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007514&amp;artikel=10&amp;g=2004-01-01" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0007514&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=10&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0007514&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" stam-id="4976803" versie-id="8640512" id="C12458781" label-id="4953514" inwerking="2002-01-06" label="Artikel 11" bron="Stcrt.2002-3" effect="wijziging" ondertekening_bron="2001-12-21" publicatie_bron="2002-01-04" publicatie_iwt="2002-01-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>11</nr>
+  </kop>
+  <al>De Centrale organisatie werk en inkomen is verplicht aan de Minister van Sociale Zaken en Werkgelegenheid en de door deze aangewezen ambtenaren desgevraagd binnen een daartoe gestelde termijn en op de aangegeven wijze alle opgaven en inlichtingen te verstrekken betreffende de wijze waarop de bevoegdheden, bedoeld in <intref verwijzing-id="1789675" doc="jci1.3:c:BWBR0007514&amp;artikel=1&amp;z=2003-06-05&amp;g=2004-01-01" bwb-id="BWBR0007514" label-id="4953414" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref>, zijn uitgeoefend. </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stcrt" urlidentifier=""><publicatiejaar>2002</publicatiejaar><publicatienr>3</publicatienr><uitgiftedatum isodatum="2002-01-04">04-01-2002</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-21">21-12-2001</ondertekeningsdatum><kenmerk>AM/RAW/01/87911</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stcrt" urlidentifier=""><publicatiejaar>2002</publicatiejaar><publicatienr>3</publicatienr><uitgiftedatum isodatum="2002-01-04">04-01-2002</uitgiftedatum><ondertekeningsdatum isodatum="2001-12-21">21-12-2001</ondertekeningsdatum><kenmerk>AM/RAW/01/87911</kenmerk></publicatie><inwerkingtreding.datum isodatum="2002-01-06">06-01-2002</inwerkingtreding.datum><terugwerkend.datum datum-scope="tot-en-met" isodatum="2002-01-01">01-01-2002</terugwerkend.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007514&amp;artikel=11&amp;g=2004-01-01" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0007514&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=11&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0007514&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" code="" stam-id="4976813" versie-id="8640522" id="C22662311" label-id="4953524" inwerking="1995-09-01" label="Artikel 12" bron="Stcrt.1995-168" effect="nieuwe-regeling" ondertekening_bron="1995-08-17" publicatie_bron="1995-08-31" publicatie_iwt="1995-08-31" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+  </kop>
+  <al>Deze regeling treedt in werking met ingang van de dag waarop de <extref verwijzing-id="1789676" doc="jci1.3:c:BWBR0007149" bwb-id="BWBR0007149" label-id="1793884">Wet arbeid vreemdelingen</extref> in werking treedt en wordt aangehaald als <extref doc="onbekend" verwijzing-id="1789677">Delegatie- en uitvoeringsbesluit Wet arbeid vreemdelingen</extref>.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier=""><publicatiejaar>1995</publicatiejaar><publicatienr>168</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-17">17-08-1995</ondertekeningsdatum><kenmerk>AM/AAB/95/5573-b</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-406"><publicatiejaar>1995</publicatiejaar><publicatienr>406</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-23">23-08-1995</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1995-09-01">01-09-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007514&amp;artikel=12&amp;g=2004-01-01" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0007514&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;artikel=12&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0007514&amp;artikel=12"/></jcis></meta-data></artikel>
+    </regeling-tekst>
+    <regeling-sluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="4976823" versie-id="8640532" id="C11189521" label-id="4953534" inwerking="1995-09-01" bron="Stcrt.1995-168" effect="nieuwe-regeling" ondertekening_bron="1995-08-17" publicatie_bron="1995-08-31" publicatie_iwt="1995-08-31" status="goed">
+  <gegeven>
+    <dagtekening>
+      <plaats>’s-Gravenhage</plaats>
+      <datum isodatum="19950817">17 augustus 1995</datum>
+    </dagtekening>
+  </gegeven>
+  <ondertekenaar>
+    <ondertekening>De <functie>Minister</functie>voornoemd, <naam><voornaam>A.P.W.</voornaam><achternaam>Melkert</achternaam></naam></ondertekening>
+  </ondertekenaar>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier=""><publicatiejaar>1995</publicatiejaar><publicatienr>168</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-17">17-08-1995</ondertekeningsdatum><kenmerk>AM/AAB/95/5573-b</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-406"><publicatiejaar>1995</publicatiejaar><publicatienr>406</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-23">23-08-1995</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1995-09-01">01-09-1995</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></regeling-sluiting>
+    <bijlage bwb-ng-variabel-deel="/Bijlage_1" stam-id="4976833" versie-id="8667332" id="C11219401" label-id="4953544" inwerking="2003-06-05" bron="Stcrt.2003-104" effect="wijziging" ondertekening_bron="2003-06-02" publicatie_bron="2003-06-03" publicatie_iwt="2003-06-03" status="goed">
+  <kop>
+    <titel>Uitvoeringsregels Wet arbeid vreemdelingen behorende bij het Delegatie- en uitvoeringsbesluit Wet arbeid vreemdelingen</titel>
+  </kop>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie1">
+    <kop>
+      <nr>1</nr>
+      <titel>Inleiding</titel>
+    </kop>
+    <al>In de Wet arbeid vreemdelingen (Wav) is bepaald op welke wijze het toelatingsbeleid van vreemdelingen tot de Nederlandse arbeidsmarkt zal plaatsvinden. Met dit besluit wordt onder ander uitvoering gegeven aan artikel 5, tweede lid, van de Wav. Ingevolge genoemd artikel kan de Minister van Sociale Zaken en Werkgelegenheid de bevoegdheid inzake het afgeven, verlengen en intrekken van tewerkstellingsvergunningen onder door hem te stellen nadere regels geheel of gedeeltelijk overdragen aan de Centrale organisatie werk en inkomen. De Centrale organisatie werk en inkomen heeft tot taak om middels registratie en bemiddeling aansluiting te zoeken tussen vraag en aanbod op de arbeidsmarkt en beschikt ook over instrumenten waarmee binnen de Europese Economische Ruimte Unie kan worden bemiddeld. Zij is derhalve bij uitstek in de positie om aan de hand van de arbeidsmarktsituatie te kunnen beoordelen of een aanvrage al dan niet voor vergunningsverlening in aanmerking komt. Alle bevoegdheden worden overgedragen aan de Centrale organisatie werk en inkomen. Hierdoor blijft de eenheid in het uitvoeringsbeleid behouden. Met dit besluit wordt tevens uitvoering gegeven aan artikel 22 van de Wav, voor zover dit verplichtingen van anderen dan de uitvoerder van deze wet betreft. In artikel 4 staat de verplichting de vereiste kwalificaties in geval van geschoolde arbeid aan te tonen; artikel 5 verplicht de houder van een vergunning zelf aan te geven wanneer van een vergunning geen gebruik wordt gemaakt. Andere regels die een goede uitvoering moeten bevorderen, zijn in deze uitvoeringsregels opgenomen. Met dit besluit wordt eveneens invulling gegeven aan artikel 8, derde lid, van de Wav. In de artikelen 6 tot en met 8 van het besluit is bepaald dat in een aantal in de wet omschreven omstandigheden mag worden afgeweken van de desbetreffende imperatieve weigeringsgronden. In deze uitvoeringsregels is ter zake een limitatieve opsomming en een uitwerking opgenomen van de gevallen waarin op grond van artikel 8, derde lid, van de Wav mag worden afgeweken van het in artikel 8 eerste lid, van de Wav bepaalde. In artikel 9 van het besluit zijn ingevolge artikel 9, onder d, van de Wav de leeftijdsgrenzen gesteld op grond waarvan niet eerder toegelaten vreemdelingen kunnen worden geweigerd. Hieraan wordt in het onderstaande eveneens een nader uitwerking gegeven.</al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie2">
+    <kop>
+      <nr>2</nr>
+      <titel>Consequente uitvoering</titel>
+    </kop>
+    <al>Uitgangspunt voor de uitvoering van de Wav is een consequente toepassing van het restrictieve toelatingsbeleid. Dit houdt in dat in beginsel alle toepasselijke weigeringsgronden waarin de Wav voorziet, zullen worden tegengeworpen. De Wav richt zich op alle arbeid ongeacht de rechtsvorm waarin deze is gegoten.</al>
+    <al>In het navolgende is zoveel mogelijk de volgorde en systematiek van de wet gevolgd, zodat de eventuele toepasselijkheid van de nadere regels gemakkelijk is terug te vinden. </al>
+  </divisie>
+  <tussenkop>Artikel 2</tussenkop>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie3">
+    <kop>
+      <nr>3</nr>
+      <titel>Werknemers van andere werkgevers</titel>
+    </kop>
+    <al>In artikel 2, tweede lid, van de Wav is bepaald dat indien een werkgever arbeid laat verrichten door een vreemdeling voor wie een andere werkgever beschikt over een tewerkstellingsvergunning niet opnieuw een vergunning is vereist. In dit geval omvat de omschrijving van de werkzaamheden de mogelijkheid van tewerkstelling bij andere werkgevers, de aard van de aldaar te verrichten werkzaamheden en een aanduiding van de plaats van de feitelijke tewerkstelling. De andere werkgever dient in het bezit te zijn van een kopie van de tewerkstellingsvergunning. De verplichting tot aanduiding van de aard van de werkzaamheden en de plaats van feitelijke tewerkstelling is niet van toepassing indien de tewerkstellingsvergunning is verleend zonder toepassing van artikel 8, eerste lid, onder a en b, van de Wav en zonder toets op de aard van de werkzaamheden.</al>
+    <al>Bij de toetsing ingevolge artikel 8 en 9 van de Wav of de vacature voor vervulling door een vreemdeling in aanmerking komt, wordt uitgegaan van de feitelijk te verrichten werkzaamheden, tenzij de aard van de werkzaamheden zich daartegen verzet.</al>
+  </divisie>
+  <tussenkop>Artikel 3</tussenkop>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie4">
+    <kop>
+      <nr>4</nr>
+      <titel>Overeenkomsten met andere mogendheden</titel>
+    </kop>
+    <al>Indien ingevolge een internationaal verdrag bij de tewerkstelling van een vreemdeling geen vergunning mag worden verlangd, zal de betreffende vreemdeling steeds beschikken over een door de minister van Justitie of de minister van Buitenlandse Zaken afgegeven legitimatiebewijs, waarop dit is aangetekend.</al>
+    <al>Van de in dit verband relevante internationale verdragen is ter voldoening aan artikel 3 lid 2 Wav in de bijlage een lijst opgenomen. </al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie5">
+    <kop>
+      <nr>5</nr>
+      <titel>Zelfstandigen</titel>
+    </kop>
+    <al>Indien een vreemdeling arbeid verricht als zelfstandige en voor die werkzaamheden als zelfstandige ingevolge artikel 8, onder a en b, van de Vreemdelingenwet 2000 rechtmatig verblijf in Nederland heeft, is het verbod van artikel 2 Wav niet van toepassing. Bij de toelating tot Nederland is immers reeds getoetst of er met de toelating van de betreffende vreemdeling een voldoende Nederlands belang is gemoeid.</al>
+    <al>Voor werkgevers (opdrachtgevers,aannemers en onderaannemers) die vreemdelingen die in hun vrije termijn of op basis van een visum rechtmatig in Nederland verblijven, arbeid als zelfstandige willen laten verrichten, is de normale vergunningplicht in alle gevallen wel van kracht. De voor loonarbeid geldende toetsingscriteria zijn daarbij volledig van toepassing.</al>
+    <al>Indien een werkgever een tot Nederland toegelaten zelfstandige arbeid wil laten verrichten buiten de beperkingen van de vergunning tot verblijf als zelfstandige, dient voor deze arbeid eveneens een tewerkstellingsvergunning te worden aangevraagd, waarbij de normale voor loonarbeid geldende toetsingscriteria gelden. Indien dit arbeid van bijkomende aard betreft en de arbeidsbeloning per uur marktconform is, kan in dit geval op grond van artikel 8, tweede lid, onder ten derde, Wav toepassing van artikel 8, eerste lid, onder d, Wav achterwege blijven. </al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie6">
+    <kop>
+      <nr>6</nr>
+      <titel>Directeuren-aandeelhouders</titel>
+    </kop>
+    <al>Voor (groot)aandeelhouders van bedrijven die in het kader van hun bedrijfsuitoefening in Nederland arbeid willen verrichten en daartoe een tewerkstellingsvergunning aanvragen, dient geen afwijkende procedure te worden toegepast.</al>
+    <al>Materieel vallen in deze categorie personen die veelal te beschouwen zijn als zelfstandigen, vanwege de positie die zij binnen de onderneming innemen.</al>
+    <al>Voor zover zij een belang van 25% of meer in het bedrijf hebben, ondernemersrisico lopen en de hoogte van hun salaris direct kunnen beïnvloeden, zullen zij een vergunning tot verblijf als zelfstandige moeten aanvragen.</al>
+    <al>Indien in vorenbedoelde situatie een tewerkstellingsvergunning wordt aangevraagd voor een directeur- (groot)aandeelhouder zal deze derhalve, onder verwijzing naar de procedure voor zelfstandigen, doorgaans dienen te worden geweigerd. </al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie7">
+    <kop>
+      <nr>7</nr>
+      <titel>Uitgezonderde werkzaamheden</titel>
+    </kop>
+    <al>Bij het KB ter uitvoering van de Wav <noot><noot.nr>1</noot.nr><noot.al>Dit besluit is gelijktijdig met de Wet arbeid vreemdelingen in werking getreden.</noot.al></noot> is bepaald dat het verbod van artikel 2 Wav niet van toepassing is op een aantal nauw omschreven werkzaamheden van vreemdelingen.</al>
+    <al>Indien de werkzaamheden de inperking van dit KB te buiten gaan, zal steeds een vergunning vereist zijn, waarbij de normale procedure dient te worden gevolgd, inclusief de toetsen ingevolge artikel 8 lid 1 Wav. </al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie8">
+    <kop>
+      <nr>8</nr>
+    </kop>
+    <al>
+      <redactie type="vervanging">Vervallen.</redactie>
+    </al>
+  </divisie>
+  <tussenkop>Artikel 5</tussenkop>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie9">
+    <kop>
+      <nr>9</nr>
+      <titel>Wijziging van omstandigheden</titel>
+    </kop>
+    <al>De afgifte van een nieuwe tewerkstellingsvergunning is noodzakelijk indien in de werkgever of in de aard van de werkzaamheden enige verandering optreedt. Bij de aanvraag om de nieuwe tewerkstellingsvergunning is de normale toetsingsprocedure van toepassing.</al>
+  </divisie>
+  <tussenkop>Artikel 7</tussenkop>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie10">
+    <kop>
+      <nr>10</nr>
+      <titel>Personalia werknemer</titel>
+    </kop>
+    <al>Bij aanvragen voor vergunningen die zonder toepassing van artikel 8 lid 1 onder a, b, of d Wav kunnen worden verleend dient de naam van de beoogde werknemer direct bij de vergunningaanvraag te worden vermeld.</al>
+    <al>Voor aanvragen die geschoold werk betreffen dienen de personalia van de werknemer alsmede gewaarmerkte diploma’s en getuigschriften dat aan de vereiste kwalificaties is voldaan, eveneens onmiddellijk bij de vergunningaanvraag te worden gevoegd. De waarde van deze documenten dient te kunnen worden geverifieerd aan de hand van een door een deskundige instantie afgegeven verklaring met welk Nederlands diploma of welke graad van vakbekwaamheid deze documenten vergelijkbaar zijn.</al>
+    <al>Voor aanvragen die ongeschoold werk betreffen dienen de personalia van de vreemdeling uiterlijk twee weken na het indienen van de vergunningaanvraag te worden overgelegd. </al>
+  </divisie>
+  <tussenkop>Artikel 8, eerste lid</tussenkop>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie11">
+    <kop>
+      <nr>11</nr>
+      <titel>Prioriteitgenietend aanbod</titel>
+    </kop>
+    <al>Een tewerkstellingsvergunning wordt ingevolge artikel 8, lid 1, onder a Wav geweigerd indien voor de desbetreffende arbeidsplaats prioriteitgenietend aanbod op de arbeidsmarkt beschikbaar is.</al>
+    <al>Steeds dient bij elke aanvraag te worden nagegaan of deze weigeringsgrond van toepassing is. Daarbij dient niet alleen de beschikbaarheid in de eigen vestigingsplaats of regio, maar evenzeer de beschikbaarheid in andere regio’s binnen Nederland en in andere landen van de Europese Unie in beschouwing te worden genomen. Indien arbeidsaanbod beschikbaar is, zal geen vergunning kunnen worden verleend, ook indien het effectueren van dit aanbod extra inspanningen van de zijde van de werkgever vergt.</al>
+    <al>Bij sommige activiteiten kan de toetsing of voor een concrete arbeidsplaats op de arbeidsmarkt prioriteit-genietend aanbod aanwezig is, gemakkelijk tot interpretatie-verschillen en uitvoeringsproblemen leiden. Voor een aantal functies is daarom in het navolgende aangegeven hoe in deze gevallen dient te worden gehandeld. </al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie12">
+    <kop>
+      <nr>12</nr>
+    </kop>
+    <al>
+      <redactie type="vervanging">Vervallen.</redactie>
+    </al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie13">
+    <kop>
+      <nr>13</nr>
+      <titel>Werknemers in de sportsector</titel>
+    </kop>
+    <al>Ook ten aanzien van werknemers in de sportsector geldt het restrictieve toelatingsbeleid. Alleen voor het incidenteel in Nederland deelnemen aan een wedstrijd door personen die hun hoofdverblijf buiten Nederland hebben, is in het KB ter uitvoering van de Wav een uitzondering gemaakt. Dit houdt in dat voor tewerkstelling op een geregelde basis in de sportsector steeds een tewerkstellingsvergunning is vereist.</al>
+    <al>Bij werknemers in de sportsector geldt,in zekere mate, dat het gaat om individuen met unieke persoonlijke eigenschappen. Ook bij teamsporten zal dit meestal het geval zijn. Toch kunnen, net als elders op de arbeidsmarkt, vanwege het restrictieve toelatingsbeleid slechts bij uitzondering sporters tot de Nederlandse arbeidsmarkt worden toegelaten. Er zal een scheidslijn getrokken moeten worden tussen beroepssporters die wel en die niet tot de Nederlandse arbeidsmarkt kunnen worden toegelaten.</al>
+    <al>Het is daarbij zaak om te komen tot een op de sportsector toegesneden invulling van deze arbeidsmarkttoets, waarbij tegelijkertijd recht wordt gedaan aan de voorrang die ook in deze sector het prioriteitgenietend arbeidsaanbod toekomt en aan de specifieke structuur van de arbeidsmarkt in de sportsector.</al>
+    <al>Aan de vacaturekant spelen diverse complicerende factoren een rol. In de eerste plaats is niet altijd eenduidig de “aard” van een vacature vast te stellen. Het aantal (contract-)spelers kan bij teams van gelijke grootte van werkgever tot werkgever verschillen. Daarnaast kunnen verschillende teamspelers op meerdere plaatsen in het team inzetbaar zijn, wat de toets voor een concrete vacature bemoeilijkt. Bovendien kan er in teamsporten een wisselwerking optreden tussen de wijze van spelen en de vaardigheden en kwaliteiten van de beschikbare spelers; soms verschilt dit zelfs per wedstrijd in relatie tot de specifieke kwaliteiten of de tactiek van de tegenstanders.</al>
+    <al>Er zal dus meestal geen eenduidige relatie te leggen zijn tussen de voor het vervullen van een vacature noodzakelijke kwaliteiten en de specifieke vaardigheden van de beoogde werknemer, die ook zelf niet zelden op verschillende plaatsen inzetbaar is. Vaak is er simpelweg behoefte aan een kwalitatief goede speler.</al>
+    <al>Een heldere en toetsbare objectivering van het begrip kwaliteit is daarbij vanwege het ontbreken van toegespitste diploma’s een cruciale voorwaarde, omdat anders de uitvoering van de Wav voor deze beroepsgroep het gevaar loopt te ontaarden in een onverantwoorde casuïstiek, die de toets van behoorlijk bestuur niet kan doorstaan.</al>
+    <al>In de praktijk is gebleken dat deze objectivering op grond van strikt individuele karakteristieken van vacature enerzijds en sporter anderzijds ook met inschakeling van deskundigen onvoldoende te geven is.</al>
+    <al>Waar op individuele vacatures en kwaliteiten toegespitste criteria geen basis bieden voor een verantwoorde uitvoering, dient gebruik te worden gemaakt van meer algemene criteria, die betrekking hebben op objectieve en toetsbare feiten, aan de ene kant wat betreft de geboden arbeidsplaats, aan de ander kant ten aanzien van de sportkwaliteiten van de betreffende vreemdeling.</al>
+    <al>Ten aanzien van de arbeidsplaats dient daarbij te worden overwogen dat in de arbeidsmarkt voor beroepssporters voortdurend een doorstroming plaatsvindt van amateursport, cq jeugdopleidingen, naar beroepssport. Dit is overigens ook uit overwegingen van sportbeleid een belangrijke doelstelling. Elke tewerkstelling van vreemdelingen die ten koste gaat van die doorstroming leidt in principe tot verdringing van prioriteitgenietend aanbod.</al>
+    <al>Daarbij dient in beschouwing te worden genomen dat de sportsector in die zin van andere bedrijfstakken afwijkt, dat voortdurend werknemers worden geworven, die ook buiten de sportsector emplooi kunnen vinden. Dit gegeven is een relevante karakteristiek voor dit segment van de arbeidsmarkt en is mede bepalend voor de te bieden arbeidsvoorwaarden, ook omdat de duur van de werkzaamheid in de sportsector slechts een beperkte periode van het arbeidsleven omvat.</al>
+    <al>Aan de werknemerszijde dient in aanmerking te worden genomen dat in de sportsector, nog meer dan in andere sectoren, een duidelijke marktwerking bestaat, die zich uit in een rechtstreekse relatie tussen de kwaliteit van de werknemer en de hoogte van te maken arbeidskosten. Voor zover transfer- of afkoopsommen in de betreffende sport gebruikelijk zijn dienen deze bij het beoordelen van de arbeidskosten te worden verdisconteerd.</al>
+    <al>Bij een goede speler hoort een goede beloning. Wie een marktconforme beloning biedt zal gegeven de hoge arbeidsmobiliteit van de werknemers in de meeste sporten de gevraagde kwaliteit speler ook binnen het prioriteitgenietend aanbod daadwerkelijk kunnen aantrekken. De geboden beloning zal daarom, steeds in overeenstemming moeten zijn met wat topsporters in de betreffende sport verdienen.</al>
+    <al>Alleen in exceptionele gevallen zal dan vacature-vervulling binnen het prioriteitgenietend aanbod uit Nederland en de bij de EER aangesloten landen niet mogelijk zijn.</al>
+    <al>Het gaat er om te bepalen wanneer een dergelijk exceptioneel geval zich voordoet. Dit zal normaliter uitsluitend het geval kunnen zijn in de hoogste competitie-afdeling van de betreffende tak van sport. Een uitzondering op deze regel vormt het betaald voetbal. In aanmerking nemende dat alle 36 clubs in het betaald voetbal aan dezelfde voorwaarden dienen te voldoen om in aanmerking te komen voor een deelnamelicentie, ligt het in de rede om in het kader van de uitvoering van de Wav, naast de Eredivisie, in principe ook de Eerste Divisie voor tewerkstellingsvergunningen in aanmerking te doen komen.</al>
+    <al>Behalve het niveau waarop de sport wordt beoefend, zal echter ook de aan te stellen individuele speler aan hoge kwalitatieve eisen moeten voldoen.</al>
+    <al>In lagere klassen zal slechts bij hoge uitzondering vergunningverlening aan de orde kunnen zijn, omdat bij marktconforme arbeidsvoorwaarden de betreffende vacature binnen het prioriteitgenietend aanbod geacht mag worden te kunnen worden vervuld, enerzijds via de doorstroming uit de amateursport, cq jeugdopleidingen, anderzijds door aanwerving van spelers behorend tot het prioriteitgenietend aanbod uit de hoogste competitie-klasse in Nederland of elders binnen de Europese Economische Ruimte.</al>
+    <al>Daarnaast geldt dat van elke werkgever verwacht mag worden, dat er een zekere planmatige invulling van de personeelsbehoefte voor de komende periode plaatsvindt. Bij sporten waarbij per seizoen veel wisselingen plaatsvinden en de beschikbaarheid van arbeidsaanbod een nauwe relatie heeft met de geboden arbeidsvoorwaarden, zal dit des te sterker gelden, alsook indien de onderscheiden sportbonden beperkingen opleggen aan de tijdstippen waarop spelers in dienst mogen worden genomen of aan het aantal vreemdelingen in een sportploeg. Deze laatste beperking heeft overigens geen enkele relatie met het restrictieve toelatingsbeleid op grond van de Wav. Het gaat daarbij immers om strikt interne regels, die niet aan enig wettelijk voorschrift mogen worden tegengeworpen.</al>
+    <al>Indien een sportwerkgever pas op het laatste moment, dus nadat vrijwel alle potentiële werknemers zich contractueel voor het komende seizoen hebben vastgelegd, dan wel bezigheden buiten de sportsector hebben gezocht, zijn personeelsbehoefte invult, dan is een eventuele onmogelijkheid om een vacature te vervullen door middel van prioriteitgenietend aanbod mede te wijten aan de slechte personeelsplanning van de werkgever en zal doorgaans geen tewerkstellingsvergunning kunnen worden afgegeven. In dit verband zij er voor de goede orde op gewezen dat van verwijtbare slechte personeelsplanning in het algemeen geen sprake zal zijn indien een speler tijdens het seizoen een contract aangaat met een nieuwe werkgever en in het verlengde daarvan zijn lopende contract beëindigt, waardoor op de positie van de vertrekkende speler een vacature zou kunnen ontstaan die niet vervuld kan worden door prioriteitgenietend aanbod uit Nederland en de bij de EER aangesloten landen.</al>
+    <al>Bovenstaande overwegingen vinden hun neerslag in de volgende geoperationaliseerde regels die ieder afzonderlijk gehanteerd moeten worden bij de beoordeling van aanvragen van tewerkstellingsvergunningen in de sportsector:</al>
+    <al>Een tewerkstellingsvergunning voor beroepssporters wordt in de regel geweigerd:</al>
+    <al>– indien, met uitzondering van het betaald voetbal, het een arbeidsplaats in een lagere dan de hoogste afdeling van de betreffende sportbond betreft, onder de aantekening dat prioriteitgenietend aanbod in de zin van artikel 8 lid 1 onder a van de Wav geacht moet worden aanwezig te zijn.</al>
+    <al>Zoals hiervoor is aangegeven is er met betrekking tot het betaald voetbal geen aanleiding om in dit verband onderscheid te maken tussen de Ere divisie en de Eerste divisie.</al>
+    <al>– indien de beloning, onder verdiscontering van de waarde van gebruikelijke transfersommen, niet marktconform is. Als de ter vervulling van de vacature geboden beloning hierbij achterblijft, zal de vergunning met toepassing van artikel 9 onder b Wav geweigerd dienen te worden.</al>
+    <al>Van het ontbreken van een marktconforme beloning zal doorgaans sprake zijn indien de beloning lager is dan de gebruikelijke beloning voor spelers die tot de top 20 % in de hoogste afdeling van de betreffende tak van sport behoren.</al>
+    <al>Voor het betaald voetbal geldt dat doorgaans sprake is van een marktconforme beloning indien de gegarandeerde beloning tenminste 150 % bedraagt van de gemiddelde beloning in de Ere divisie in het voorgaande seizoen inclusief de premies, gerelateerd aan het in dat seizoen behaalde resultaat van de club die een tewerkstellings-vergunning aanvraagt, met dien verstande dat voor spelers in de leeftijdsgroep van 18 tot 20 jaar in de regel sprake is van een marktconforme beloning indien de gegarandeerde beloning tenminste 75 % van vorenbedoelde gemiddelde beloning in de Ere divisie bedraagt.</al>
+    <al>– indien het een speler betreft die niet direct voorafgaande aan de tewerkstelling op geregelde basis heeft deelgenomen aan een competitie die ten minste even sterk is als de hoogste afdeling van de Nederlandse competitie of die op andere wijze, zoals deelname aan wereldkampioenschappen, heeft bewezen over tenminste vergelijkbare kwaliteiten te beschikken, onder de aantekening dat prioriteitgenietend aanbod in de zin van artikel 8 lid 1 onder a Wav geacht moet worden aanwezig te zijn.</al>
+    <al>– Indien de aanvraag, anders dan in geval van calamiteiten, wordt ingediend na het begin van het seizoen met toepassing van artikel 9 onder a Wav. </al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie14">
+    <kop>
+      <nr>14</nr>
+      <titel>Werkzaamheden in restaurants</titel>
+    </kop>
+    <al>Voor tewerkstelling in de horeca-sector is het restrictieve toelatingsbeleid onverkort van toepassing.</al>
+    <al>Het beheersen van een andere taal dan het Nederlands als voorwaarde voor vacaturevervulling voor keukenpersoneel dient steeds beschouwd te worden als een beletsel in de zin van artikel 9 onder b Wav.</al>
+    <al>Ten aanzien van tewerkstelling in Chinees-Indische restaurants alsmede grillrooms, pizzeria’s, shoarma-zaken, koffie- en eethuizen en dergelijke zal een vergunning in de regel geweigerd dienen te worden indien algemeen bedienend- of keukenpersoneel op de arbeidsmarkt beschikbaar is.</al>
+    <al>Ook voor andere restaurants met een specifieke keuken zal getoetst moeten worden of voor het bereiden van de specifieke gerechten met een korte opleiding kan worden volstaan, dan wel of eventuele specialiteiten ook door reeds beschikbaar personeel kunnen worden vervaardigd.</al>
+    <al>Gespecialiseerd keukenpersoneel dient steeds te beschikken over gewaarmerkte diploma’s en getuigschriften aangaande hun vakbekwaamheid, die overeenkomen met het niveau van chef-kok in Nederlandse horeca-gelegenheden.</al>
+    <al>Indien sprake is van uitbreiding van activiteiten dient in acht te worden genomen datgene wat hierboven onder 12 terzake is vermeld. </al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie15">
+    <kop>
+      <nr>15</nr>
+      <titel>Werkzaamheden in het internationaal wegvervoer</titel>
+    </kop>
+    <al>In afwijking van artikel 8, eerste lid, onder a en b, van de Wet arbeid vreemdelingen kan een tewerkstellingsvergunning worden verleend ten behoeve van chauffeurs afkomstig uit Estland, Letland, Litouwen, Polen, Hongarije, Tsjechië, Slowakije, Slovenië, Cyprus en Malta die vóór 19 maart 2002 al in dienst waren van een in Nederland gevestigd transportbedrijf. De werkgever moet het bestaan van het dienstverband van vóór 19 maart 2002 aantonen door middel van een verklaring van dienstverband of bewijs van loonbetaling. De tewerkstellingsvergunningen dienen voor 1 april 2003 bij de Centrale organisatie werk en inkomen aangevraagd te zijn.</al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie16">
+    <kop>
+      <nr>16</nr>
+      <titel>Vergunning tot verblijf</titel>
+    </kop>
+    <al>Alvorens een tewerkstellingsvergunning kan worden afgegeven dient een bewijsstuk te zijn overgelegd dat door de vreemdeling een vergunning tot verblijf voor het verrichten van arbeid is aangevraagd. Met een vergunning tot verblijf kan worden gelijkgesteld een machtiging tot voorlopig verblijf als bedoeld in artikel 1, onder h, van de Vreemdelingenwet 2000.</al>
+    <al>Bij arbeid met een duur van maximaal 12 weken kan in geval van visumplichtige vreemdelingen met het bewijsstuk van het aangevraagde visum worden volstaan en in geval van niet-visumplichtige vreemdelingen met een door de Korpschef aan de vreemdeling afgegeven verklaring van bekendheid met diens verblijf.</al>
+    <al>In het geval van grensarbeiders die woonachtig zijn in België of de Bondsrepubliek Duitsland en die in die landen een legaal verblijfsrecht hebben, kan eveneens worden volstaan met een verklaring van de korpschef als hierboven bedoeld. In geval van studenten die arbeid van bijkomende aard willen verrichten, als beschreven onder nr. 26, kan worden volstaan met een verblijfsvergunning voor bepaalde tijd verleend onder de beperking verband houdende met het volgen van studie. </al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie17">
+    <kop>
+      <nr>17</nr>
+      <titel>Minimumloon</titel>
+    </kop>
+    <al>In artikel 8 eerste lid onder d Wav is bepaald dat een vergunning wordt geweigerd indien de vreemdeling met de betreffende arbeid minder verdient dan het minimummaandloon. Aanvragen voor vergunningen voor kortere perioden dan een maand of voor deeltijdarbeid komen derhalve slechts voor inwilliging in aanmerking indien de totale beloning ten minste het minimummaandloon bedraagt. Uitzonderingen op deze regel zijn uitsluitend mogelijk indien dit ingevolge artikel 8, derde lid, onder ten derde Wav is toegestaan. Indien de afgegeven tewerkstellingsvergunning betrekking heeft op een vreemdeling die beschikt over een voor arbeid geldige verblijfsvergunning van een staat die behoort tot de Europese Economische Ruimte, anders dan Nederland, wordt deze vreemdeling eveneens beschouwd als een eerder toegelaten vreemdeling.</al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie18">
+    <kop>
+      <nr>18</nr>
+      <titel>Geen vergunning</titel>
+    </kop>
+    <al>Bij het KB ter uitvoering van de Wav is bepaald dat voor werkzaamheden geheel of ten dele bestaande in het verrichten van seksuele handelingen met derden dan wel ten overstaan van of ten behoeve van derden een vergunning wordt geweigerd.</al>
+    <al>Onder deze dwingende weigeringsgrond dienen alle werkzaamheden te worden begrepen waarvan het niet ongebruikelijk is, dat het verrichten van seksuele handelingen of het verlenen van seksuele diensten daarvan onderdeel uitmaakt. </al>
+  </divisie>
+  <tussenkop>Artikel 8 tweede lid</tussenkop>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie19">
+    <kop>
+      <nr>19</nr>
+      <titel>Buitengewone omstandigheden</titel>
+    </kop>
+    <al>Afwijking van artikel 8, eerste lid, onder b, van de Wav kan in individuele gevallen slechts plaatsvinden in geval er sprake is van buitengewone omstandigheden die een spoedige vervulling van de arbeidsplaats noodzakelijk maken en die niet door de werkgever waren te voorzien of door hem te beïnvloeden waren. De toepassing van deze uitzonderingsmogelijkheid dient zich te beperken tot duidelijke gevallen van overmacht. De Centrale organisatie werk en inkomen kan met betrekking tot bepaalde categorieën functies besluiten dat de verplichte vacaturemelding bedoeld in artikel 8, eerste lid, onder b, van de wet, gedurende een termijn van maximaal zes maanden achterwege blijft, indien zij van oordeel is dat prioriteitsgenietend aanbod niet bij de Centrale organisatie werk en inkomen als werkzoekende is geregistreerd of op korte termijn geregistreerd zal worden. Na ommekomst van deze termijn beslist de Centrale organisatie werk en inkomen, of een nieuwe termijn, waarin de verplichte vacaturemelding achterwege blijft, gesteld zal worden. Zolang de situatie zich voordoet dat binnenlands prioriteitsgenietend aanbod afwezig is en voorzienbaar is dat dit aanbod niet op de korte termijn bij de Centrale organisatie werk en inkomen geregistreerd zal worden, kan de Centrale Organisatie werk en inkomen deze termijn telkens voor een periode van maximaal 6 maanden verlengen.</al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie20">
+    <kop>
+      <nr>20</nr>
+      <titel>Internationale handelscontacten</titel>
+    </kop>
+    <al>In artikel 8, derde lid, Wav is bepaald dat is bepaald dat ten behoeve van de bevordering van internationale handelscontacten afwijking mogelijk is van artikel 8, eerste lid, onder a en b Wav.</al>
+    <al>In de navolgende gevallen zal deze mogelijkheid kunnen worden toegepast:</al>
+    <al>a. in geval van internationale dienstverlening door bedrijven voor zover daarop verdragsbepalingen aangegaan in het kader van de Europese Unie inzake een vrij dienstenverkeer van toepassing zijn en die hun eigen personeel ter uitvoering van de dienst in Nederland willen laten werken, zal zonder toets aan de arbeidsmarktsituatie in Nederland een tewerkstellingsvergunning dienen te worden verstrekt. De betreffende personeelsleden dienen tot het vaste personeel van de betrokken dienstverrichter te behoren en reeds meer dan een jaar bij deze werkgever in dienst zijn. Tevens dienen de personeelsleden die de dienst komen verrichten te beschikken over een verblijfs- en arbeidsvergunning in het vestigingsland van de dienstverrichter die de geldigheidsperiode van de tewerkstellingsvergunning overschrijdt.</al>
+    <al>b. in geval van werkzaamheden die in samenhang met de levering van goederen worden verricht kan, voorzover artikel 1 onder a, 1 van het KB ter uitvoering van de Wav niet van toepassing is, zonder toepassing van artikel 8 lid 1 onder a en b Wav een tewerkstellingsvergunning worden verleend indien de totale waarde van de geleverde arbeid, gemeten naar in Nederland gebruikelijk (CAO-)loonniveau, niet groter is dan de waarde van de geleverde goederen. Voorwaarde is bovendien dat de goederen gefabriceerd zijn in het land waaruit ook het personeel afkomstig is en dat de werknemers reeds meer dan een jaar in vaste dienst zijn van de leverancier van de goederen. </al>
+    <al>c. in geval van internationale dienstverlening door bedrijven voor zover daarop verdragsbepalingen aangegaan in het kader van de General Agreement on Trade in Services (GATS) van toepassing zijn en die hun eigen personeel ter uitvoering van de dienst in Nederland willen laten werken, zal zonder toets aan de arbeidsmarktsituatie in Nederland een tewerkstellingsvergunning worden verstrekt, indien aan de navolgende voorwaarden wordt voldaan:</al>
+    <lijst type="ndash">
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie20/Onderdeel_1">
+        <al> de personen die op tijdelijke basis diensten verlenen, zijn in dienst van een rechtspersoon, die geen commerciële vestiging in een van de Lidstaten van de Europese Gemeenschap heeft;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie20/Onderdeel_2">
+        <al> de dienstverleningsovereenkomst overschrijdt niet de duur van drie maanden, en is tot stand gekomen na een openbare aanbestedingsprocedure of een publieke bekendmaking om die overeenkomst te sluiten, indien dat voortvloeit uit het Nederlands recht of dat van de Europese Gemeenschap;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie20/Onderdeel_3">
+        <al> de hiervoor bedoelde personen behoren tot het vaste personeel van de desbetreffende buitenlandse werkgever en hebben reeds meer dan een jaar in dienst van die werkgever de werkzaamheden verricht, waarop de dienstverleningsovereenkomst betrekking heeft;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie20/Onderdeel_4">
+        <al> de verblijfsduur is beperkt tot de duur van het contract, met een maximum van drie maanden in een periode van 24 maanden;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie20/Onderdeel_5">
+        <al> de hiervoor bedoelde personen verrichten uitsluitend de werkzaamheden waarvoor de tewerkstellingsvergunning is verleend;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie20/Onderdeel_6">
+        <al> het aantal personeelsleden dat voor de rechtspersoon de contractueel overeengekomen werkzaamheden verricht, bedraagt ten hoogste het aantal personen dat redelijkerwijs noodzakelijk is voor de uitvoering van de overeenkomst;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie20/Onderdeel_7">
+        <al> de overeenkomst heeft betrekking op een van de navolgende categorieën van dienstverlening:</al>
+        <lijst nr-sluiting="">
+          <li bwb-ng-variabel-deel="/Bijlage_1/Divisie20/Onderdeel_7/Onderdeela">
+            <li.nr>a.</li.nr>
+            <al> accountantsdiensten;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=a&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=a"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Bijlage_1/Divisie20/Onderdeel_7/Onderdeelb">
+            <li.nr>b.</li.nr>
+            <al> fiscaal adviserende diensten;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=b&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=b"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Bijlage_1/Divisie20/Onderdeel_7/Onderdeelc">
+            <li.nr>c.</li.nr>
+            <al> diensten op het gebied van architectuur, stadsplanning/stedenbouwkunde en landschapsarchitectuur;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=c&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=c"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Bijlage_1/Divisie20/Onderdeel_7/Onderdeeld">
+            <li.nr>d.</li.nr>
+            <al> technische diensten (zgn.:’engineering’);</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=d&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=d"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Bijlage_1/Divisie20/Onderdeel_7/Onderdeele">
+            <li.nr>e.</li.nr>
+            <al> diensten op het gebied van geïntegreerde techniek (zgn.: ’integrated engineering’);</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=e&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=e"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Bijlage_1/Divisie20/Onderdeel_7/Onderdeelf">
+            <li.nr>f.</li.nr>
+            <al> diensten op het gebied van, cq gerelateerd aan computers: informatici, systeemanalysten, programmeurs, deskundigen op het gebied van functionele documentenanalyse en onderhoudsdeskundigen;</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=f&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=f"/></jcis></meta-data></li>
+          <li bwb-ng-variabel-deel="/Bijlage_1/Divisie20/Onderdeel_7/Onderdeelg">
+            <li.nr>g.</li.nr>
+            <al> diensten in de bouw (zgn.: ’construction services’);</al>
+          <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=g&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=g"/></jcis></meta-data></li>
+        </lijst>
+      </li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie20/Onderdeel_8">
+        <al> de desbetreffende personeelsleden beschikken over een voltooide universitaire opleiding en drie jaar beroepservaring op het desbetreffende werkterrein;</al>
+      </li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie20/Onderdeel_9">
+        <al> met uitzondering van de hiervoor onder f genoemde diensten voldoen de desbetreffende personeelsleden aan de voor het uitoefenen van dat beroep in Nederland bestaande beroepseisen. </al>
+      </li>
+    </lijst>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie21">
+    <kop>
+      <nr>21</nr>
+      <titel> Internationalisering bedrijfsleven en non-profit organisaties</titel>
+    </kop>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie21/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al> Grote internationale concerns</al>
+        <al>Voor vreemdelingen die door hun werkgever tijdelijk naar Nederland worden overgeplaatst kan in het kader van de bevordering van internationale handelscontacten worden afgeweken van artikel 8, eerste lid, onder a en b, van de Wav, voor zover het gaat om personeel op sleutelposities in een groot zelfstandig op winst gericht bedrijf of complex van bedrijven. De Centrale organisatie werk en inkomen stelt met betrekking tot de grootte van het bedrijf of complex van bedrijven een omzetcriterium vast. Onder een sleutelpositie wordt verstaan een leidinggevende of specialistische functie op ten minste HBO-niveau met een bruto-jaarsalaris van € 50.000 of meer. Voor vreemdelingen die als directeur-grootaandeelhouder een leidinggevende positie binnen een Nederlandse vestiging willen gaan innemen, wordt in acht genomen wat hierboven onder 6 terzake is vermeld.</al>
+        <al>Voor vreemdelingen die binnen grote internationale bedrijven als trainee worden tewerkgesteld kan worden afgeweken van artikel 8, eerste lid, onder a en b, van de Wav indien:</al>
+        <al>- de trainee beschikt over een opleiding op HBO- of universitair niveau;</al>
+        <al>- een trainee-programma wordt overlegd, waaruit de noodzaak van tewerkstelling in Nederland blijkt;</al>
+        <al>- de tewerkstelling onder marktconforme arbeidsvoorwaarden plaatsvindt, en</al>
+        <al>- de periode van tewerkstelling minder bedraagt dan 3 jaar.</al>
+        <al>Daarnaast kan ten aanzien van werknemers die naar Nederland worden overgeplaatst in verband met de overdracht van specifieke kennis en technieken, voorzover de tewerkstelling van deze vreemdelingen in Nederland de duur van één jaar niet overschrijdt en de vreemdelingen beschikken over een voltooide opleiding op ten minste HBO-niveau, worden afgeweken van artikel 8, eerste lid, onder a en b, van de Wav.</al>
+      <meta-data/></li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie21/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al> Vestiging kleinere bedrijven</al>
+        <al>Indien een bedrijf niet aan het omzetcriterium dat door de Centrale organisatie werk en inkomen is gesteld voldoet, kan op grond van een verklaring van de Centrale Dienst voor de In- en Uitvoer van het Ministerie van Economische Zaken, dat met de komst van dat bedrijf een wezenlijk Nederlands belang is gediend, ten aanzien van een vreemdeling die binnen het bedrijf een sleutelpositie heeft, worden afgeweken van artikel 8, eerste lid, onder a en b, van de Wav. Deze verklaring dient door de werkgever aan de CWI te worden overgelegd. De beloning van het sleutelpersoneel is marktconform.</al>
+        <al>Ten behoeve van het starten, wijzigen of uitbreiden van bedrijfsactiviteiten wordt alleen een tewerkstellingsvergunning afgegeven indien uit een door een deskundige instantie opgesteld ondernemingsplan blijkt dat deze bedrijfsactiviteiten voldoende levensvatbaar zijn.</al>
+      <meta-data/></li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie21/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al> Sleutelpersoneel uit Midden- en Oosteuropa</al>
+        <al>Ten behoeve van sleutelpersoneel (personeel in leidinggevende of specialistische functies), zoals genoemd in de Associatieakkoorden die de Europese Unie en haar Lidstaten hebben afgesloten met de Midden- en Oosteuropese staten, zijn de bepalingen uit deze Akkoorden van toepassing. Dit houdt in dat voor de tewerkstelling van dit personeel kan worden afgeweken van artikel 8, eerste lid, onder a en b, van de Wav en van het in onderdeel a van deze paragraaf genoemde inkomenscriterium.</al>
+      <meta-data/></li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie21/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al> Non-profit organisaties</al>
+        <al>Ten behoeve van de tewerkstelling van sleutelpersoneel voor de duur van minder dan drie jaar van grote internationaal georiënteerde non-profit organisaties kan worden afgeweken van artikel 8, eerste lid, onder a en b, van de Wav. De Centrale organisatie werk en inkomen stelt met betrekking tot de grootte van de internationaal georiënteerde non-profitorganisaties een criterium vast. Onder sleutelpersoneel wordt in dit verband verstaan: vreemdelingen in leidinggevende of specialistische functies op ten minste HBO-niveau, die voor de organisatie van direct belang zijn vanwege de internationale activiteiten van de organisatie. De beloning van het sleutelpersoneel is marktconform.</al>
+      <meta-data/></li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie21/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al> Echtgenoten/partners</al>
+        <al>Indien ten behoeve van de hierboven genoemde vreemdelingen zonder toets aan artikel 8, eerste lid, onder a en b, van de Wav een tewerkstellingsvergunning wordt verleend, kan ten behoeve van de tewerkstelling van zijn/haar echtgeno(o)t(e)/ partner eveneens zonder toets aan artikel 8, eerste lid, onder a en b, van de Wav een tewerkstellingsvergunning worden afgegeven voor maximaal dezelfde duur als de tewerkstellingsvergunning die op genoemde vreemdeling van toepassing is.</al>
+      <meta-data/></li>
+    </lijst>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie22">
+    <kop>
+      <nr>22</nr>
+      <titel>Asielzoekers in procedure, vreemdelingen met een vergunning voor bepaalde tijd onder de beperking voor (voortgezet) verblijf als alleenstaande minderjarige vreemdeling en houders van een verblijfsvergunning bepaalde tijd asiel</titel>
+    </kop>
+    <al> In afwijking van artikel 8, eerste lid, onderdelen a, b en d, van de Wet arbeid vreemdelingen mag een vreemdeling als bedoeld in artikel 8, tweede lid, van die wet arbeid verrichten indien: die vreemdeling een verblijfsvergunning asiel, bedoeld in artikel 28 van de Vreemdelingenwet 2000, heeft aangevraagd en deze aanvraag blijkens een verklaring van de Minister van Justitie tenminste zes maanden in behandeling is en de vreemdeling op basis van artikel 8, onderdelen f of h, van de Vreemdelingenwet 2000 rechtmatig in Nederland verblijft (Besluit uitvoering Wet arbeid vreemdelingen).</al>
+    <al>De vreemdeling mag binnen een tijdsbestek van 52 weken een arbeidsperiode van in totaal twaalf weken niet overschrijden, en de in de vergunningsaanvraag bedoelde werkzaamheden zullen onder marktconforme voorwaarden worden verricht.</al>
+    <al>De vreemdeling die een verblijfsvergunning asiel als bedoeld in artikel 28 van de Vreemdelingenwet 2000 (asielaanvraag) heeft aangevraagd dient overeenkomstig artikel 2a, eerste lid, onder a, van het Besluit uitvoering Wet arbeid vreemdelingen in het bezit te zijn van een verklaring van de minister van Justitie. Deze verklaring kan betrekking hebben op twee categorieën asielzoekers, te weten asielzoekers aan wie met toepassing van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 1997 (Rva 1997) door het Centraal Orgaan opvang asielzoekers (COA) opvang wordt geboden en asielzoekers aan wie met toepassing van de Regeling opvang asielzoekers (ROA) door gemeenten opvang wordt geboden.</al>
+    <al>Tot deze laatste categorie behoren ook asielzoekers die onder de ROA vallen maar wier opvang door gemeenten op basis van een overeenkomst tot overdracht en mandateringsregeling is overgedragen aan het COA.</al>
+    <al>Bovenvermelde verklaring van de minister van Justitie houdt tenminste het volgende in:</al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie22/Onderdeel1">
+        <li.nr>1.</li.nr>
+        <al>aan de vreemdelingen wordt met toepassing van de Rva 1997 danwel ROA opvang geboden;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=1&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=1"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie22/Onderdeel2">
+        <li.nr>2.</li.nr>
+        <al>de asielaanvraag is tenminste zes maanden in behandeling;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=2&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=2"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie22/Onderdeel3">
+        <li.nr>3.</li.nr>
+        <al> de vreemdeling verblijft op grond van artikel 8, onderdelen f of h, van de Vreemdelingenwet 2000 rechtmatig in Nederland.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=3&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=3"/></jcis></meta-data></li>
+    </lijst>
+    <al>Teneinde te kunnen verklaren hetgeen is opgenomen onder 1. baseert de minister van Justitie zich op informatie van het COA (Rva 1997/ROA voor zover de uitvoering daarvan is overgedragen aan het COA) dan wel de gemeente (ROA).</al>
+    <al>De verklaring wordt door de minister van Justitie verstrekt aan de vreemdeling en in kopie verstrekt aan het COA dan wel de gemeente.</al>
+    <al>De werkgever die ten behoeve van de vreemdeling bij de Centrale organisatie werk en inkomen een tewerkstellingsvergunning aanvraagt, overlegt tezamen met de aanvraag de originele verklaring van de minister van Justitie. De tewerkstellingsvergunning wordt verstrekt aan de werkgever en in afschrift verzonden aan het COA dan wel de gemeente.</al>
+    <al>De vreemdeling die houder is van een op grond van artikel 14, eerste lid, onderdeel e, van de Vreemdelingenwet 2000 verleende verblijfsvergunning voor bepaalde tijd onder de beperking voor verblijf als alleenstaande minderjarige vreemdeling kan, in afwijking van artikel 8, eerste lid, onderdelen a, b en d, van de Wet arbeid vreemdelingen arbeid verrichten indien binnen een tijdsbestek van 52 weken een arbeidsperiode van in totaal twaalf weken niet wordt overschreden, en de in de vergunningsaanvraag bedoelde werkzaamheden onder marktconforme voorwaarden worden verricht.</al>
+    <al>De vreemdeling die houder is van een op grond van artikel 14, eerste lid, onderdeel e, van de Vreemdelingenwet 2000 verleende verblijfsvergunning voor bepaalde tijd onder de beperking van voortgezet verblijf, verband houdend met eerder verblijf als alleenstaande minderjarige vreemdeling kan, in afwijking van artikel 8, eerste lid, onderdelen a, b en d, van de Wet arbeid vreemdelingen arbeid verrichten voor de duur van de verblijfsvergunning indien de in de vergunningsaanvraag bedoelde werkzaamheden onder marktconforme voorwaarden zullen worden verricht. Houders van een verblijfsvergunning voor bepaalde tijd asiel kunnen in Nederland ook niet kortdurende arbeid verrichten indien de werkgever in het bezit is van een tewerkstellingsvergunning. Deze vergunning wordt in afwijking van artikel 8, eerste lid van de Wav verleend voor maximaal de duur van de verblijfsvergunning.</al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie23">
+    <kop>
+      <nr>23</nr>
+      <titel>Onvrijwillig werkelozen</titel>
+    </kop>
+    <al>Ten aanzien van personen die gedurende de looptijd van een voor hun verstrekte tewerkstellingsvergunning onvrijwillig werkloos worden en die rechtmatig in Nederland verblijven, in de zin van artikel 8, onder a, van de Vreemdelingenwet 2000 kan worden afgeweken van het bepaalde in artikel 8, eerste lid, onder a, b en d Wav, indien zij als werkloos staan ingeschreven bij de Centrale organisatie werk en inkomen en voor zover de duur van de aangevraagde tewerkstellingsvergunning niet langer is dan de resterende termijn van rechtmatig verblijf in de zin van artikel 8, onder a, van de Vreemdelingenwet 2000.</al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie24">
+    <kop>
+      <nr>24</nr>
+      <titel>Stagiaires</titel>
+    </kop>
+    <al> Voor vreemdelingen die arbeid verrichten die noodzakelijk is ter voltooiing van hun opleiding, kan voor maximaal een jaar een tewerkstellingsvergunning worden verleend zonder toepassing van artikel 8, eerste lid, onder a, b en d Wav. Voorwaarde voor toepassing van deze uitzonderingsmogelijkheid is dat deze stagiaires reeds een voldoende vakgerichte basisopleiding hebben gevolgd in hun herkomstland. Uit een door de desbetreffende onderwijsinstelling afgegeven verklaring dient te blijken dat de stage een noodzakelijk onderdeel uitmaakt van het onderwijsprogramma. Tevens dient een stageprogramma te worden overgelegd waaruit blijkt wat de inhoud van de stage is. Het aantal stagiaires per werkgever dient beperkt te blijven tot 10% van het vaste personeelsbestand, met een minimum van 2. Deze beperking is niet van toepassing op vreemdelingen die beschikken over een verblijfsvergunning regulier voor bepaalde tijd voor het volgen van een studie, een verblijfsvergunning asiel voor bepaalde tijd of een W-document. Voor vreemdelingen die beschikken over een verblijfsvergunning regulier voor bepaalde tijd voor het volgen van een studie, een verblijfsvergunning asiel voor bepaalde tijd of een W-document kan een tewerkstellingsvergunning met een geldigheidsduur van langer dan een jaar worden afgegeven, mits de duur van de werkzaamheden niet meer bedraagt dan 50% van de duur van de opleiding.</al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie25">
+    <kop>
+      <nr>25</nr>
+      <titel>Practicanten</titel>
+    </kop>
+    <al>Voor vreemdelingen die naar Nederland komen om werkervaring op te doen, die voor hun toekomstig functioneren in hun herkomstland van belang is, kan een tewerkstellingsvergunning worden verleend voor in de regel maximaal 24 weken zonder toepassing van artikel 8 lid 1, onder a en b Wav. Voorwaarde voor toepassing van deze uitzonderingsmogelijkheid is dat deze practicanten reeds een voldoende vakgerichte basisopleiding hebben gevolgd en op basis van een overeenkomst tussen een in het buitenland gevestigde onderneming en een in Nederland gevestigde onderneming in de laatstgenoemde bij wijze van onderricht bedrijfservaring opdoen.</al>
+    <al>Bij de aanvraag dient het leerplan te zijn bijgevoegd, alsmede een verklaring van de Nederlandse werkgever inhoudende dat de dat de practicant geen reguliere arbeidsplaats inneemt en een verklaring van de buitenlandse werkgever dat hij de practicant na ommekomst van de praktijkperiode weer daadwerkelijk in dienst zal nemen. Het aantal practicanten staat in een redelijke verhouding tot het aantal werknemers dat bij een werkgever werkzaam is</al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie26">
+    <kop>
+      <nr>26</nr>
+      <titel>Arbeid van bijkomende aard door studenten</titel>
+    </kop>
+    <al>Toetsing aan de voorwaarden vervat in artikel 8, eerste lid, van de Wav behoeft voor buitenlandse studenten in het bezit een verblijfsvergunning voor bepaalde tijd verleend onder de beperking verband houdende met het volgen van studie niet plaats te vinden, indien de arbeid onder marktconforme voorwaarden plaatsvindt en:</al>
+    <lijst nr-sluiting="">
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie26/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al> uitsluitend in de maanden juni, juli en augustus plaatsvindt, of</al>
+      <meta-data/></li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie26/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al> niet meer dan 10 uur per week beslaat</al>
+      <meta-data/></li>
+    </lijst>
+    <al>èn indien bij de aanvraag tevens een verklaring van de onderwijsinstelling is gevoegd, inhoudende dat de betreffende persoon als student bij de desbetreffende onderwijsinstelling staat ingeschreven.</al>
+    <al>Voor alle andere arbeid geldt de normale procedure inclusief het bepaalde in artikel 8, eerste lid, van de Wav.</al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie27">
+    <kop>
+      <nr>27</nr>
+      <titel>Gastdocenten</titel>
+    </kop>
+    <al>Voor gastdocenten aan een universiteit, hoge school of instelling voor hoger internationaal onderwijs, of aan een onderzoeksinstelling die gelieerd is of werkzaam is op het terrein van een universiteit, hoge school of instelling voor hoger internationaal onderwijs behoeft toetsing aan artikel 8, eerste lid, onder a en b, van de Wav niet plaats te vinden, indien de aanvraag een periode van tewerkstelling van ten hoogste een jaar omvat. Zodra deze periode, inclusief eventuele verlengingen, wordt overschreden geldt de normale toetsingsprocedure inclusief het bepaalde in artikel 8, eerste lid, van de Wav.</al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie28">
+    <kop>
+      <nr>28</nr>
+      <titel>Wetenschappelijk personeel aan universitaire, HBO- en onderzoeksinstellingen</titel>
+    </kop>
+    <al>Toetsing aan de artikel 8 onder lid 1 onder a en b Wav genoemde weigeringsgronden behoeft niet plaats te vinden:</al>
+    <lijst start="a" type="expliciet">
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie28/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>voor promovendi bij een universitaire instelling;</al>
+      <meta-data/></li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie28/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al> voor vreemdelingen die na het behalen van het afsluitend examen van een opleiding in het wetenschappelijk onderwijs voor de duur van minder dan 3 jaar wetenschappelijk onderzoek verrichten;</al>
+      <meta-data/></li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie28/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>voor hooggekwalificeerde onderzoekers die op voordracht van de Koninklijke Nederlandse Academie voor Wetenschappen op basis van een tijdeljke aanstelling onderzoekswerkzaamheden komen verrichten. Toetsing aan de in artikel 8, eerste lid, onder a, b en d, Wav genoemde weigeringsgronden behoeft niet plaats te vinden voor onderzoekers die geen in Nederland gevestigde werkgever hebben, maar in dienst zijn van een Universitaire of HBO-instelling in hun land van herkomst en die voor maximaal twee jaar in Nederland onderzoek verrichten. Indien ten behoeve van het onder sub a tot en met c genoemde wetenschappelijk personeel zonder toets aan de in artikel 8, eerste lid, onder a en b, van de Wav genoemde weigeringsgronden een tewerkstellingsvergunning wordt verleend, kan ten behoeve van zijn/haar echtgen(o)t(e)/partner eveneens zonder toets aan artikel 8, eerste lid, onder a en b, van de Wav een tewerkstellingsvergunning worden verleend voor maximaal dezelfde duur als de tewerkstellingsvergunning die op het wetenschappelijk personeel van toepassing is.</al>
+      <meta-data/></li>
+    </lijst>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie29">
+    <kop>
+      <nr>29</nr>
+      <titel>Musici en artiesten</titel>
+    </kop>
+    <al>Voor musici en artiesten geldt steeds (ook bij eenmalige optredens) een vergunningplicht. Bij eenmalige optredens of kortdurende tournees zal echter ter bevordering van de internationale culturele contacten doorgaans de arbeidsmarkttoets conform artikel 8 lid 1 onder a,b en d Wav achterwege kunnen blijven indien het optredens betreft in theaters en concertzalen of ruimtes die als zodanig dienst doen, en indien het optreden niet het karakter heeft van begeleiding van andere activiteiten. Overigens dient de beloning wel steeds marktconform te zijn en mag deze beloning voor het geheel van de verblijfsperiode in Nederland proportioneel niet onder het minimumloon liggen. In deze gevallen wordt steeds een vergunning ingevolge artikel 11 lid 3 Wav afgegeven.</al>
+    <al>Bij langdurige tournees en werkzaamheden ten behoeve van binnenlandse theaterprodukties zal in de regel de arbeidsmarkttoets wel moeten worden toegepast.</al>
+    <al>Voor werkzaamheden in horecagelegenheden en dergelijke, alsmede voor werkzaamheden in dienst van Nederlandse theatergezelschappen en orkesten is artikel 8 lid 1 Wav onverkort geheel van toepassing.</al>
+    <al>Voor zover de arbeidsmarkttoets wordt toegepast – waarbij in het kader van de beoordeling van de vraag of prioriteitgenietend aanbod aanwezig is, aspecten van kwaliteit worden meegenomen – zal ook het bepaalde in artikel 9 Wav in voorkomende gevallen moeten worden tegengeworpen. Als de normale planning-termijn van personeelsbehoefte voor optredens langer is dan vijf weken, dan zal getoetst moeten worden of de werkgever ook gedurende deze langere periode inspanningen heeft verricht om de vacature door prioriteitgenietend aanbod te doen vervullen. Indien de Arbeidsinspectie te kennen heeft gegeven dat uit hoofde van de Arbeidstijdenwet en het Arbeidsomstandighedenbesluit geen bezwaar bestaat tegen het optreden van jeugdige vreemdelingen, wordt in het kader van de uitvoering van de Wav de in artikel 9 van het Delegatie- en uitvoeringsbesluit Wet arbeid vreemdelingen vervatte minimumleeftijdsgrens niet tegen geworpen.</al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie30">
+    <kop>
+      <nr>30</nr>
+      <titel>Internationale jeugduitwisselingen</titel>
+    </kop>
+    <al>Voor vreemdelingen die naar Nederland komen in het kader van jeugd-uitwisselingsprogramma’s teneinde kennis te maken met de Nederlandse samenleving kan voor maximaal 24 weken een tewerkstellingsvergunning worden verleend zonder toepassing van artikel 8 lid onder a, b en d Wav. Voorwaarde voor toepassing van deze uitzonderingsmogelijkheid is dat voor deze vreemdelingen arbeid niet het hoofddoel van hun verblijf in Nederland is. Ten behoeve van vreemdelingen die tot Nederland worden toegelaten om arbeid te verrichten in het kader van actieprogramma's van de Europese Unie kan voor maximaal één jaar een tewerkstellingsvergunning worden verleend zonder toepassing van artikel 8, eerste lid, onder a, b en d van de Wav.</al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie31">
+    <kop>
+      <nr>31</nr>
+      <titel>Au pairs</titel>
+    </kop>
+    <al>Wanneer een au pair naar Nederland komt met als hoofddoel het verrichten van huishoudelijk werk en/of werkzaamheden ten behoeve van het gezin zal, gelet op dat hoofddoel, een tewerkstellingsvergunning zijn vereist. </al>
+  </divisie>
+  <tussenkop>Artikel 9</tussenkop>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie32">
+    <kop>
+      <nr>32</nr>
+      <titel>Voldoende inspanningen</titel>
+    </kop>
+    <al>In geval de werkgever niet kan aantonen voldoende inspanningen te hebben gepleegd om prioriteitgenietend aanbod te mobiliseren, dient in de regel een tewerkstellingsvergunning te worden geweigerd.</al>
+    <al>In ieder geval is sprake van onvoldoende inspanningen indien een werkgever zonder ernstige redenen niet of niet volledig deelneemt aan gezamenlijke of door de Centrale organisatie werk en inkomen georganiseerde wervings- of scholingsprojecten in zijn branche gericht op het bevorderen van de beschikbaarheid van prioriteitgenietend aanbod.</al>
+    <al>Ook indien de werkgever geen wervingsinspanningen via het Eures-systeem in andere landen van de Europese Unie heeft verricht, of vergelijkbare inspanningen heeft gedaan om binnen de Europese Unie arbeidskrachten te werven, zal een tewerkstellingsvergunning met toepassing van artikel 9 onder a Wav in de regel worden geweigerd. </al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie33">
+    <kop>
+      <nr>33</nr>
+      <titel>Gebreken in de arbeidsvoorwaarden, - omstandigheden en verhoudingen</titel>
+    </kop>
+    <al>Met toepassing van artikel 9, onder b, van de Wav wordt een tewerkstellingsvergunning geweigerd, indien de geboden beloning lager is dan de gebruikelijke beloning voor dezelfde of een vergelijkbare functie. Ook ingeval in de secundaire arbeidsvoorwaarden gebreken bestaan, zoals het ontbreken van een adequate vergoeding voor de te maken vervoers- of logieskosten bij tijdelijke verplaatsingen, of indien de secundaire arbeidsvoorwaarden slechter zijn dan in de markt gebruikelijk is, zal een vergunning in de regel worden geweigerd. Terzake van gebreken in de arbeidsomstandigheden zal normaliter een vergunning worden geweigerd, indien sprake is van situaties die voor de veiligheid of de gezondheid schadelijk zijn. Indien sprake is van minder ernstige gebreken in de arbeidsomstandigheden die door te nemen maatregelen op korte termijn kunnen worden verholpen zal doorgaans kunnen worden volstaan met het stellen van voorwaarden met toepassing van artikel 10 van de Wav. Als het echter gaat om gebreken die niet op korte termijn kunnen worden verholpen, of waarvan de werkgever te kennen geeft deze niet op korte termijn te zullen verhelpen, zal in de regel een tewerkstellingsvergunning worden geweigerd.</al>
+    <al>Gebreken in de arbeidsverhoudingen kunnen onder andere blijken door een ongebruikelijk hoog verloop bij de werkgever of het niet voldoen aan wettelijke bepalingen ter zake. Indien bij de werkgever anderszins gebreken bestaan waardoor de arbeidsplaats niet overeenkomstig het bij of krachtens deze wet bepaalde door aanbod op de arbeidsmarkt vervuld kon worden kan de tewerkstellingsvergunning worden geweigerd. Tot deze gebreken wordt uitdrukkelijk gerekend de illegale tewerkstelling van vreemdelingen. Daarbij wordt opgemerkt dat het weigeren van de tewerkstellingsvergunning slechts kan plaatsvinden, nadat de werkgever onherroepelijk is veroordeeld wegens overtreding van de Wav.</al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie34">
+    <kop>
+      <nr>34</nr>
+      <titel>Leeftijdsgrenzen</titel>
+    </kop>
+    <al>In artikel 9 van het ministeriële besluit zijn ingevolge artikel 9, onder d, van de Wav, leeftijdsgrenzen vastgesteld. Indien niet voldaan is aan de gestelde leeftijdsgrens van 45 jaar dient, met het oog op het grotere risico dat oudere werknemers in de toekomst een (langdurig) beroep doen op de openbare kas, in de regel een tewerkstellingsvergunning te worden geweigerd, indien sprake is van:</al>
+    <lijst start="a" type="a">
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie34/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al> een aanvraag om een tewerkstellingsvergunning die getoetst wordt aan artikel 8, eerste lid, onder a, van de Wav, en waardoor de vreemdeling recht kan krijgen op de aantekening van de Minister van Justitie als bedoeld in artikel 4 van de Wav, en</al>
+      <meta-data/></li>
+      <li bwb-ng-variabel-deel="/Bijlage_1/Divisie34/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al> aan het vereiste kwalificatieniveau door personen jonger dan 46 jaar normaliter kan worden voldaan.</al>
+        <al>De leeftijdsgrens van 45 jaar is niet van toepassing op werknemers uit landen die in 2004 kunnen toetreden tot de Europese Unie. Deze uitzondering heeft betrekking op vreemdelingen uit de landen: Estland, Letland, Litouwen, Polen, Tsjechië, Slowakije, Hongarije, Slovenië, Malta en Cyprus.</al>
+      <meta-data/></li>
+    </lijst>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie35">
+    <kop>
+      <nr>35</nr>
+      <titel>Niet naleven voorschrift</titel>
+    </kop>
+    <al>Indien de aanvraag een werkgever betreft aan wie in de voorafgaande vijf jaar een tewerkstellingsvergunning is afgegeven, waaraan een voorschrift als bedoeld in artikel 10 Wav is verbonden, zal steeds moeten worden nagegaan of de in die eerdere vergunning gestelde voorschriften geheel zijn nagekomen. Indien de voorschriften in betekenende mate niet zijn nagevolgd, dient een vergunning in de regel te worden geweigerd. Indien de voorschriften wel in aanzienlijke mate maar niet geheel zijn nagevolgd, zal in de regel geen vergunning op grond van artikel 11, lid 1 Wav worden afgegeven.</al>
+  </divisie>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie36">
+    <kop>
+      <nr>36</nr>
+      <titel>Huisvesting</titel>
+    </kop>
+    <al>Indien er geen passende huisvesting voor de vreemdeling beschikbaar is, wordt in beginsel de tewerkstellingsvergunning geweigerd. De beoordeling dient in eerste instantie plaats te vinden op grond van de bij de aanvraag verstrekte informatie. Zonodig zal de aanvrager de gemeente door middel van een standaardformulier om een oordeel over de huisvesting dienen te verzoeken.</al>
+    <al>Deze beoordeling behelst zowel de beschikbaarheid van de huisvesting, inclusief de rechtmatigheid van het betrekken van de huisvesting, alsook een kwalificatie van de geschiktheid van de huisvesting voor de behuizing van vreemdelingen gedurende de periode van tewerkstelling.</al>
+  </divisie>
+  <tussenkop>Artikel 10</tussenkop>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie37">
+    <kop>
+      <nr>37</nr>
+      <titel>Voorwaarden</titel>
+    </kop>
+    <al>Ingevolge artikel 10, onder a, b en d Wav kunnen aan de vergunning voorwaarden worden verbonden, die de werkgever verplichten inspanningen te verrichten terzake van het mobiliseren van prioriteit-genietend aanbod en het wegnemen van gebreken.</al>
+    <al>De mogelijkheid voorwaarden aan de vergunning te verbinden dient uitsluitend te worden toegepast, indien de werkgever desgevraagd bereid is gevraagde inspanningen te verrichten en indien de werkgever reeds enige inspanningen heeft verricht om prioriteit-genietend aanbod te mobiliseren of de gesignaleerde beletselen te remediëren.</al>
+    <al>In alle andere gevallen dient met toepassing van artikel 9 onder a en b en c de tewerkstellingsvergunning te worden geweigerd. </al>
+  </divisie>
+  <tussenkop>Artikel 11</tussenkop>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie38">
+    <kop>
+      <nr>38</nr>
+      <titel>Tijdelijk werk</titel>
+    </kop>
+    <al>Tewerkstellingsvergunningen krachtens artikel 11, derde lid, van de Wav worden afgegeven voor werkzaamheden die binnen een periode van 24 weken worden afgerond. Het is noodzakelijk bij de vergunningverlening de werkgever er op te wijzen dat deze vergunning niet kan worden verlengd.</al>
+    <al>Ten aanzien van personen voor wie een tewerkstellingsvergunning wordt aangevraagd dient steeds nagegaan te worden of zij in een periode van 28 weken voorafgaand aan de vergunningverlening niet over een voor het verrichten van arbeid geldige vergunning tot verblijf hebben beschikt, dan wel ten behoeve van hen een tewerkstellingsvergunning van kracht is geweest, onder gebruikmaking van de uitzonderingsmogelijkheden als hierboven onder punt 16 beschreven ten aanzien van artikel 8, eerste lid, onderdeel c, onder 1°, van de Wav. Ook in die gevallen zal een tewerkstellingsvergunning moeten worden geweigerd.</al>
+    <al>Artikel 11, vierde lid, van de Wav maakt het mogelijk om bij of krachtens algemene maatregel van bestuur te bepalen dat voor categorieën van vreemdelingen of categorieën van werkzaamheden een tewerkstellingsvergunning die voor minder dan drie jaar is verleend, niet wordt verlengd. In artikel 4a van het Besluit ter uitvoering van de Wet arbeid vreemdelingen is vervolgens bepaald dat behoudens bij ministeriële regeling te bepalen gevallen een tewerkstellingsvergunning die voor arbeid voor bepaalde tijd is verleend, niet vatbaar voor verlenging is. Op dit moment is dit voorbehoud in ieder geval noodzakelijk in verband met de in 1980 tot stand gekomen associatieovereenkomst tussen de EEG en Turkije (Besluit nr. 1/80 van de Associatieraad van 19 september 1980). In artikel 6 van voornoemd besluit is onder meer bepaald dat Turkse werknemers die tot de legale arbeidsmarkt van een lidstaat behoren na een jaar arbeid in die lidstaat recht hebben om de werkzaamheden voort te zetten bij dezelfde werkgever indien deze werkgelegenheid heeft.</al>
+  </divisie>
+  <tussenkop>Artikel 12</tussenkop>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie39">
+    <kop>
+      <nr>39</nr>
+      <titel>Intrekking tewerkstellingsvergunning</titel>
+    </kop>
+    <al>In artikel 12, onderdeel c, Wav is bepaald dat de tewerkstellingsvergunning wordt ingetrokken indien er geen gebruik van wordt gemaakt; teneinde dit te kunnen effectueren zal bij de vergunningverlening de werkgever er steeds op moeten worden gewezen dat hij ingevolge artikel 5 van de ministeriële regeling verplicht is onverwijld hiervan mededeling te doen indien van de tewerkstellingsvergunning langer dan een maand geen gebruik wordt gemaakt.</al>
+    <al>De tewerkstellingsvergunning wordt vervolgens ingetrokken, tenzij de vreemdeling een aaneengesloten verlofperiode van niet langer dan drie maanden geniet, dan wel ziekteverlof, zwangerschapsverlof, bevallingsverlof of ouderschapsverlof en de arbeidsrelatie blijft voortbestaan. </al>
+  </divisie>
+  <tussenkop>Artikel 13</tussenkop>
+  <divisie bwb-ng-variabel-deel="/Bijlage_1/Divisie40">
+    <kop>
+      <nr>40</nr>
+      <titel>Verlenging</titel>
+    </kop>
+    <al>Bij verlening van een vergunning zal steeds moeten worden nagegaan of de gestelde voorschriften geheel zijn nagekomen. Indien de voorschriften in overwegende of ernstige mate niet zijn nagevolgd wordt een verlenging steeds geweigerd.</al>
+    <al>Indien de voorschriften in aanzienlijke mate maar niet geheel zijn nagevolgd, zal slechts verlenging kunnen plaatsvinden voor de periode waarbinnen de voorschriften wel geheel zijn nagevolgd. </al>
+  </divisie>
+  <bijlage-sluiting>
+    <ondertekening>De <functie>Minister</functie> van <organisatie>Sociale Zaken en Werkgelegenheid</organisatie>, <naam><voornaam>A.P.W.</voornaam><achternaam>Melkert</achternaam></naam> .</ondertekening>
+  </bijlage-sluiting>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stcrt" urlidentifier="stcrt-2003-104-p11-SC40194"><publicatiejaar>2003</publicatiejaar><publicatienr>104</publicatienr><uitgiftedatum isodatum="2003-06-03">03-06-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-02">02-06-2003</ondertekeningsdatum><kenmerk>AAM/ASAM/2003/41334</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stcrt" urlidentifier="stcrt-2003-104-p11-SC40194"><publicatiejaar>2003</publicatiejaar><publicatienr>104</publicatienr><uitgiftedatum isodatum="2003-06-03">03-06-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-02">02-06-2003</ondertekeningsdatum><kenmerk>AAM/ASAM/2003/41334</kenmerk></publicatie><inwerkingtreding.datum isodatum="2003-06-05">05-06-2003</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></bijlage>
+    <bijlage bwb-ng-variabel-deel="/Bijlage_2" stam-id="4976843" versie-id="8640552" id="C18703281" label-id="4953554" inwerking="1995-09-01" label="Bijlage" bron="Stcrt.1995-168" effect="nieuwe-regeling" ondertekening_bron="1995-08-17" publicatie_bron="1995-08-31" publicatie_iwt="1995-08-31" status="goed">
+  <kop>
+    <label>Bijlage</label>
+    <titel>Mededeling als bedoeld in <extref verwijzing-id="1789688" doc="jci1.3:c:BWBR0007149&amp;artikel=3" bwb-id="BWBR0007149" label-id="1793564">artikel 3, tweede lid, van de Wet arbeid vreemdelingen</extref></titel>
+  </kop>
+  <al>Ten aanzien van de hierna te noemen vreemdelingen mag ingevolge de daarbij vermelde bepalingen, vastgesteld bij overeenkomst met andere mogendheden dan wel bij een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, geen tewerkstellingsvergunning worden verlangd:</al>
+  <lijst nr-sluiting="">
+    <li bwb-ng-variabel-deel="/Bijlage_2/Onderdeel1">
+      <li.nr>1.</li.nr>
+      <al> onderdanen van een Lid-Staat van de Europese Economische Gemeenschap waarop <intref verwijzing-id="1789689" doc="jci1.3:c:BWBR0007514&amp;artikel=1&amp;z=2003-06-05&amp;g=2004-01-01" bwb-id="BWBR0007514" label-id="4953414" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref> dan wel gezinsleden van dergelijke onderdanen waarop artikel 11 van <extref doc="31968R1612" label="verordening" reeks="Celex">verordening (EEG) nr. 1612/68</extref> van de Raad van de Europese Gemeenschappen van 15 oktober 1968 betreffende het vrije verkeer van werknemers binnen de Gemeenschap (PbEG 1968, L257) van toepassing is;</al>
+    <meta-data/></li>
+    <li bwb-ng-variabel-deel="/Bijlage_2/Onderdeel2">
+      <li.nr>2.</li.nr>
+      <al> onderdanen van een Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte (Trb. 1992, 132 en Trb. 1993, 69 en 156) waarop <intref verwijzing-id="1789690" doc="jci1.3:c:BWBR0007514&amp;artikel=1&amp;z=2003-06-05&amp;g=2004-01-01" bwb-id="BWBR0007514" label-id="4953414" bwb-ng-variabel-deel="/Artikel1">artikel 1</intref> dan wel gezinsleden van dergelijke onderdanen waarop artikel 11 van <extref doc="31968R1612" label="verordening" reeks="Celex">verordening (EEG) nr. 1612/68</extref> van de Raad van de Europese Gemeenschappen van 15 oktober 1968 betreffende het vrije verkeer van werknemers binnen de Gemeenschap van toepassing is;</al>
+    <meta-data/></li>
+    <li bwb-ng-variabel-deel="/Bijlage_2/Onderdeel3">
+      <li.nr>3.</li.nr>
+      <al> personeelsleden van het Europees Ruimte-Agentschap voor de werkzaamheden in dienst van ESTEC; artikel XV, tweede lid, van het Verdrag tot oprichting van een Europees Ruimte-Agentschap (Trb. 1975, 123);</al>
+    <meta-data/></li>
+    <li bwb-ng-variabel-deel="/Bijlage_2/Onderdeel4">
+      <li.nr>4.</li.nr>
+      <al> personeelsleden van het Europees Octrooibureau; <intref verwijzing-id="1789691" doc="jci1.3:c:BWBR0007514&amp;artikel=7&amp;z=2003-06-05&amp;g=2004-01-01" bwb-id="BWBR0007514" label-id="4953474" bwb-ng-variabel-deel="/Artikel7">artikel 7</intref> van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Octrooi-organisatie betreffende het onderdeel van het Europees Octrooibureau in ’s-Gravenhage (Trb. 1978,16);</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=4&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=4"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Bijlage_2/Onderdeel5">
+      <li.nr>5.</li.nr>
+      <al> stafleden van de Internationale Thee Promotie Associatie; artikel 15 van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Internationale Thee Promotie Associatie (ITPA) betreffende de zetel van de organisatie (Trb. 1980, 49);</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=5&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=5"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Bijlage_2/Onderdeel6">
+      <li.nr>6.</li.nr>
+      <al> stafleden van de Internationale Dienst voor Nationaal Landbouwkundig Onderzoek (ISNAR); artikel 13 van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Internationale Dienst voor Nationaal Landbouwkundig Onderzoek betreffende de zetel van de Organisatie (Trb. 1980, 110);</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=6&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=6"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Bijlage_2/Onderdeel7">
+      <li.nr>7.</li.nr>
+      <al> stafleden van het Technisch Centrum voor landbouwsamenwerking en plattelandsontwikkeling CTA; artikel 13 van de Overeenkomst tussen het Koninkrijk der Nederlanden en het Technisch Centrum voor landbouwsamenwerking en plattelandsontwikkeling (Trb. 1984, 99);</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=7&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=7"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Bijlage_2/Onderdeel8">
+      <li.nr>8.</li.nr>
+      <al> personeelsleden van het Instituut voor Nieuwe Technologieën (INTECH); artikel XV van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Universiteit van de Verenigde Naties inzake het Instituut voor nieuwe technologieën van de Universiteit van de Verenigde Naties (Trb. 1989, 74);</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=8&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=8"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Bijlage_2/Onderdeel9">
+      <li.nr>9.</li.nr>
+      <al> gezinsleden van diplomaten, consulaire ambtenaren en van het administratieve, technische en dienstverlenende personeel dat werkzaam is bij diplomatieke, consulaire en permanente vertegenwoordigingen van de Verenigde Staten van Amerika in Nederland; artikel V van de Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika inzake de tewerkstelling van gezinsleden van diplomaten (Trb. 1986, 145);</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=9&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=9"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Bijlage_2/Onderdeel10">
+      <li.nr>10.</li.nr>
+      <al> gezinsleden van diplomaten, consulaire ambtenaren en van het administratieve-, technische- en dienstverlenende personeel dat werkzaam is bij diplomatieke-, consulaire-en permanente vertegenwoordigingen van Canada in Nederland; Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Canada inzake de tewerkstelling van gezinsleden van diplomaten (Trb. 1991, 86).</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;o=10&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="o=10"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier=""><publicatiejaar>1995</publicatiejaar><publicatienr>168</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-17">17-08-1995</ondertekeningsdatum><kenmerk>AM/AAB/95/5573-b</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-406"><publicatiejaar>1995</publicatiejaar><publicatienr>406</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-23">23-08-1995</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1995-09-01">01-09-1995</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></bijlage>
+  </regeling>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stcrt" urlidentifier=""><publicatiejaar>1995</publicatiejaar><publicatienr>168</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-17">17-08-1995</ondertekeningsdatum><kenmerk>AM/AAB/95/5573-b</kenmerk></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-1995-406"><publicatiejaar>1995</publicatiejaar><publicatienr>406</publicatienr><uitgiftedatum isodatum="1995-08-31">31-08-1995</uitgiftedatum><ondertekeningsdatum isodatum="1995-08-23">23-08-1995</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1995-09-01">01-09-1995</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0007514&amp;g=2004-01-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0007514"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0007514&amp;z=2003-06-05&amp;g=2004-01-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0007514"/></jcis></meta-data></wetgeving></toestand>

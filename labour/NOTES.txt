@@ -1,0 +1,68 @@
+Netherlands - labour authority: UWV (Uitvoeringsinstituut Werknemersverzekeringen)
+Collected 14-15 November 2026. Script: download_nl_labour.py (python3 download_nl_labour.py [ruwav2022 ruwav2014 delegatie uwv2018 uwv2009 uwvwoo]).
+
+Role
+UWV decides applications for a work permit (tewerkstellingsvergunning, TWV) under the Foreign Nationals
+Employment Act (Wet arbeid vreemdelingen, Wav) and advises the IND on the labour-market part of combined
+permits (GVVA) and, on request, on whether the salary of a knowledge migrant or EU Blue Card applicant is
+at market rate. The IND decides the EU Blue Card; no TWV is needed for it (art. 2.2 BuWav 2022).
+
+Sources used
+1. Basiswettenbestand bulk repository, every consolidated version as XML:
+   https://repository.officiele-overheidspublicaties.nl/bwb/<BWB id>/manifest.xml (no robots.txt; the host
+   exists for bulk download). wetten.overheid.nl itself was NOT used: its robots.txt
+   (https://wetten.overheid.nl/robots.txt, re-read 15 November 2026) disallows ClaudeBot, Claude-Web,
+   anthropic-ai, GPTBot and other AI agents by name. The repository holds the same texts.
+   - Regeling uitvoering Wet arbeid vreemdelingen 2022 (BWBR0046054), 20 versions. Annex I ("uitvoeringsregels")
+     is the detailed rulebook UWV applies to TWV and GVVA cases. Kind: procedural act.
+   - Regeling uitvoering Wet arbeid vreemdelingen 2014 (BWBR0034945), 22 versions. Same structure. Procedural act.
+   - Delegatie- en uitvoeringsbesluit Wet arbeid vreemdelingen (BWBR0007514), 36 versions 1995-2013, with the
+     annex "Uitvoeringsregels Wav". Procedural act.
+   - UWV Beleidsregels uitvoering Wav 2018 (BWBR0041410), 2 versions; UWV Beleidsregels uitvoering Wav
+     (BWBR0024885, 2009-2013), 1 version. UWV's own policy rules. Guidance.
+2. UWV Open Government Act (Woo) publications, www.uwv.nl (robots.txt read first: only /nl/webpublicaties is
+   excluded). The sitemap https://www.uwv.nl/nl/sitemap.xml lists 445 Woo/Wob publications; six concern work
+   permits. Only one released guidance:
+   https://www.uwv.nl/nl/wet-open-overheid/woo-publicaties/2025/woo-besluit-kennismigrantenregeling
+   (Woo decision 2025016, 26 June 2025). Kept, in uwvwoo/: annex 11 "Werkinstructie adviesverzoeken
+   marktconform loon (kennismigranten/Europese blauwe kaart)" (12 pp., addressed to Bureau TWV), annexes 2 and 10
+   (two pages of UWV's internal handbook "Wetsuitleg Werkvergunningen"), and annexes 3-9 (internal UWV and
+   UWV-IND e-mails, 2024-2025, settling how the salary and age tests are applied). Not kept: annex 12 (a list of
+   case numbers) and the decision letter.
+   The other five work-permit Woo publications contain statistics, lists of refused occupations and board papers
+   on the Asian-catering scheme, not guidance:
+   .../2023/besluit-woo-verzoek-inzake-hoeveelheid-gvvas, .../2024/woo-besluit-gvva-functies-met-negatief-advies-2022-en-2023,
+   .../2025/woo-besluit-inzake-het-aantal-gvva-adviezen-van-uwv-aan-de-ind, .../2026/woo-besluit-over-gvva-s-voor-aziatische-horeca.
+
+Saved: 91 files, about 42 MB. 81 XML texts (78 procedural act, 3 guidance), 10 PDFs (guidance).
+Date range 1995-2026. All XML checked with `file`, all PDFs with pdfinfo.
+
+Related material elsewhere in the collection: IND work instruction WI 2026/27 on the Wav and BuWav is in
+nl/werkinstructies/2026/wi.2026.27.pdf; the Vreemdelingencirculaire (B5/B6 on labour migration) is in nl/.
+
+Temporary-work agencies and the EU Blue Card in these texts
+- Regeling uitvoering Wav 2022, annex I, para. 2.1 (on art. 2 Wav, "Tewerkstellingsvergunning of gecombineerde
+  vergunning"): "Het ter beschikking stellen van arbeidskrachten blijft onder de tewerkstellingsvergunning vallen
+  (met uitzondering van de gevallen waarop de artikelen 56 en 57 VwEU van toepassing zijn ...). De uitzendende of
+  inlenende werkgever dient een tewerkstellingsvergunning aan te vragen." Intra-group secondment, collegial lending
+  without profit and contracting for work (aanneming van werk) are not hiring-out. The same text is in the 2014
+  regulation.
+- Regeling uitvoering Wav 2022, annex I, para. 8.3.b.17: TWV for a long-term resident who formerly held an EU Blue
+  Card.
+- UWV Werkinstructie adviesverzoeken marktconform loon (kennismigranten/Europese blauwe kaart), section 3,
+  "Aandacht: beoordeling bij feitelijke werkgever": where the knowledge migrant is employed by one employer
+  (formele werkgever / uitlener) and hired out to a third party (feitelijk werkgever / inlener), "De beoordeling
+  van de marktconformiteit vindt plaats bij de feitelijk werkgever. Deze situatie neem je expliciet op in het
+  advies." The same instruction covers the EU Blue Card salary criterion (art. 2.2(1)(b) BuWav). The handbook page
+  (annex 2) repeats it.
+- No text names payroll companies or employers of record as such.
+
+How much real guidance
+UWV's working rules are mostly published as law: the ministerial implementing regulation, whose annex is a
+detailed decision rulebook, and UWV's own policy rules, all in every historical version. UWV's internal
+handbook ("Wetsuitleg Werkvergunningen") and work instructions are not published; the only parts public are the
+pages released under the Woo in 2025 on market-rate salary for knowledge migrants and Blue Card holders.
+
+Earlier work vs this pass: the 81 XML files and the BWB part of the script were done by an earlier agent on
+14-15 November 2026 (verified complete on 15 November: every manifest version present). The Woo part (uwvwoo),
+this file and not-obtained.tsv were added on 15 November 2026.
